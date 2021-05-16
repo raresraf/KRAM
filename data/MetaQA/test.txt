@@ -1,0 +1,4054 @@
+The Prowler	starred_actors	Evelyn Keyes
+Robinson Crusoe	in_language	English
+Memory	starred_actors	Billy Zane
+The Wrath of God	starred_actors	Robert Mitchum
+The Departed	has_tags	police
+Kismet	in_language	English
+Hoodwinked!	has_tags	children
+Village of the Damned	has_tags	remake
+Reel Injun	written_by	Neil Diamond
+The Parent Trap	starred_actors	Dennis Quaid
+Tarzan	has_tags	disney animated feature
+Yellow Sky	has_genre	Western
+The Happening	release_year	2008
+April Fool's Day	has_genre	Horror
+Vantage Point	has_tags	assassination
+A Patch of Blue	starred_actors	Elizabeth Hartman
+Brian's Song	starred_actors	Jack Warden
+Queens Logic	directed_by	Steve Rash
+Lost Horizon	has_tags	fantasy
+Wrong Is Right	has_genre	Thriller
+Life During Wartime	starred_actors	Allison Janney
+Red Dust	release_year	1932
+Arthur	release_year	1981
+The Girl from Jones Beach	has_genre	Comedy
+Chicken Run	release_year	2000
+Safe Haven	directed_by	Lasse Hallström
+The Dead Zone	starred_actors	Christopher Walken
+The Reluctant Debutante	starred_actors	Rex Harrison
+The Littlest Rebel	starred_actors	Shirley Temple
+The Dog Problem	starred_actors	Lynn Collins
+Chatroom	release_year	2010
+Caprice	starred_actors	Doris Day
+Terms of Endearment	has_tags	james l. brooks
+Columbus Circle	written_by	George Gallo
+Lower City	has_genre	Drama
+High, Wide, and Handsome	has_tags	rouben mamoulian
+Regarding Henry	starred_actors	Harrison Ford
+Not as a Stranger	release_year	1955
+Marathon Man	has_tags	john schlesinger
+Hustle	starred_actors	Burt Reynolds
+She Hate Me	has_genre	Comedy
+The Pelican	starred_actors	Gérard Blain
+Howl's Moving Castle	has_tags	war
+When a Stranger Calls	starred_actors	Carol Kane
+Bring Me the Head of Alfredo Garcia	written_by	Sam Peckinpah
+Lucía, Lucía	in_language	Spanish
+Here Without Me	written_by	Tennessee Williams
+Gold Diggers of 1933	written_by	Ben Markson
+Crackers	directed_by	Louis Malle
+Dopamine	directed_by	Mark Decena
+Raging Bull	starred_actors	Robert De Niro
+Last Passenger	written_by	Omid Nooshin
+Armed and Dangerous	release_year	1986
+The Bat	written_by	Avery Hopwood
+Memento	has_tags	original
+Suicide Kings	has_tags	christopher walken
+Zombieland	has_tags	emma stone
+Anastasia	release_year	1997
+Some Kind of Wonderful	directed_by	Howard Deutch
+La Dolce Vita	release_year	1960
+The Spirit of St. Louis	has_tags	billy wilder
+Treasure Island	has_tags	robert louis stevenson
+Feeling Minnesota	starred_actors	Keanu Reeves
+Just Friends	directed_by	Roger Kumble
+Equinox	directed_by	Jack Woods
++1	release_year	2013
+Kazaam	starred_actors	Shaquille O'Neal
+Crazy Love	written_by	Charles Bukowski
+Entr'acte	written_by	René Clair
+The Karate Kid	in_language	Chinese
+Alambrista!	release_year	1977
+The Train Robbers	written_by	Burt Kennedy
+Major League	starred_actors	Corbin Bernsen
+Neighbors	starred_actors	John Belushi
+Interview with the Assassin	starred_actors	Raymond J. Barry
+Underground	in_language	Serbian
+Thunder Rock	starred_actors	Michael Redgrave
+Sheitan	has_genre	Horror
+Red Dust	release_year	2004
+Crazy/Beautiful	has_tags	kirsten dunst
+Leatherheads	starred_actors	John Krasinski
+The Evil Dead	starred_actors	Bruce Campbell
+The Big Picture	release_year	2010
+Mr. Saturday Night	written_by	Billy Crystal
+The Dogs of War	release_year	1980
+Heartbeats	directed_by	Xavier Dolan
+There Goes My Heart	release_year	1938
+Cop Land	has_tags	crime
+Charlotte Gray	has_tags	billy crudup
+Eye of the Devil	has_genre	Crime
+The Wild Angels	starred_actors	Diane Ladd
+The Crucified Lovers	directed_by	Kenji Mizoguchi
+Hercules	has_tags	dwayne johnson
+Three on a Match	has_genre	Crime
+Antiviral	has_genre	Horror
+National Treasure	starred_actors	Nicolas Cage
+Night of the Living Dead	has_tags	zombies
+Ex Drummer	in_language	Flemish
+Heroine	release_year	2012
+Priest	written_by	Jimmy McGovern
+Adulthood	written_by	Noel Clarke
+Othello	starred_actors	Laurence Olivier
+Curse of Chucky	has_genre	Horror
+Arachnophobia	has_genre	Comedy
+Thursday	release_year	1998
+Crows Zero	has_tags	gangs
+Glory Daze	starred_actors	French Stewart
+A Hole in My Heart	written_by	Lukas Moodysson
+Papillon	starred_actors	Dustin Hoffman
+The Alamo	has_tags	john wayne
+Stalag 17	in_language	German
+Samurai Spy	has_tags	masahiro shinoda
+Barefoot Gen	has_genre	Drama
+Privilege	directed_by	Peter Watkins
+Scrooged	has_tags	karen allen
+Very Good Girls	directed_by	Naomi Foner
+Monster in the Closet	starred_actors	Howard Duff
+Son of Rambow	has_genre	Comedy
+Conquest	release_year	1983
+The Brave	starred_actors	Johnny Depp
+The Spiderwick Chronicles	starred_actors	Sarah Bolger
+Chain Lightning	starred_actors	Eleanor Parker
+Jubal	directed_by	Delmer Daves
+Bridesmaids	written_by	Kristen Wiig
+Die Hard	has_tags	own
+Dracula	written_by	Bram Stoker
+Kongo	starred_actors	Virginia Bruce
+The Replacements	has_tags	gene hackman
+Inside Daisy Clover	release_year	1965
+Guilty	release_year	2011
+The French Connection	has_tags	police
+Chances Are	has_genre	Comedy
+Godzilla	has_tags	akihiko hirata
+Cloudy with a Chance of Meatballs	has_tags	bruce campbell
+Groundhog Day	starred_actors	Bill Murray
+Mother and Child	has_tags	naomi watts
+Easy Virtue	starred_actors	Ian Hunter
+Ocean's Eleven	has_tags	matt damon
+Beautiful Boy	starred_actors	Maria Bello
+The Town	has_tags	r
+The Blacksmith	has_tags	buster keaton
+The American President	starred_actors	Michael J. Fox
+Camp de Thiaroye	directed_by	Thierno Faty Sow
+City Slickers	has_tags	ron underwood
+It Should Happen to You	has_genre	Comedy
+Comes a Bright Day	directed_by	Simon Aboud
+A Nightmare on Elm Street	release_year	1984
+Scrooge	release_year	1970
+Who's That Girl	directed_by	James Foley
+Punch-Drunk Love	starred_actors	Adam Sandler
+Home from the Hill	directed_by	Vincente Minnelli
+November	starred_actors	Courteney Cox
+Kansas City	starred_actors	Miranda Richardson
+Seed of Chucky	written_by	Don Mancini
+The Garden of Allah	starred_actors	Marlene Dietrich
+The Central Park Five	written_by	Ken Burns
+Sky Murder	starred_actors	Walter Pidgeon
+Antwone Fisher	starred_actors	Derek Luke
+Sweet Home Alabama	release_year	2002
+Tideland	has_tags	gilliam
+Toys in the Attic	directed_by	George Roy Hill
+The Warriors	directed_by	Walter Hill
+Levity	release_year	2003
+Ransom	written_by	Richard Maibaum
+The Hill	has_tags	sean connery
+American Beauty	starred_actors	Thora Birch
+Lady in a Cage	starred_actors	Olivia de Havilland
+Stolen Kisses	has_tags	françois truffaut
+Grease 2	starred_actors	Maxwell Caulfield
+Suzy	directed_by	George Fitzmaurice
+The Fall of the Roman Empire	written_by	Philip Yordan
+Jonah Who Will Be 25 in the Year 2000	written_by	Alain Tanner
+You Don't Mess with the Zohan	release_year	2008
+Romancing the Stone	directed_by	Robert Zemeckis
+The Last Remake of Beau Geste	written_by	Marty Feldman
+The Bandit	in_language	Turkish
+Bodyguards and Assassins	directed_by	Teddy Chan
+Thunderbirds	written_by	Michael McCullers
+Monument Ave.	directed_by	Ted Demme
+Steamboat Round the Bend	starred_actors	Will Rogers
+Stars	release_year	1959
+3000 Miles to Graceland	has_tags	r
+Charley Varrick	directed_by	Don Siegel
+Cat People	has_tags	erotic
+Amistad	starred_actors	Anthony Hopkins
+Home Alone 4	directed_by	Rod Daniel
+Requiem for a Heavyweight	has_tags	bd-r
+The Green Butchers	directed_by	Anders Thomas Jensen
+Top Hat	written_by	Allan Scott
+The Town	has_tags	jeremy renner
+Zombie Lake	has_genre	Horror
+Cabin Boy	directed_by	Adam Resnick
+Step Up All In	has_tags	dance
+These Girls	written_by	John Hazlett
+Darling Lili	starred_actors	Julie Andrews
+They Bite	has_genre	Horror
+Heaven Knows, Mr. Allison	has_tags	stranded
+Oranges and Sunshine	has_genre	Drama
+Inside Daisy Clover	starred_actors	Ruth Gordon
+Farewell, My Lovely	has_tags	philip marlowe
+Portrait Werner Herzog	has_genre	Short
+In a Better World	has_tags	susanne bier
+Anamorph	has_tags	willem dafoe
+5 Fingers	written_by	Michael Wilson
+Stardust Memories	has_genre	Drama
+The Last Seduction	directed_by	John Dahl
+Volcano	release_year	1997
+The Day After Tomorrow	starred_actors	Emmy Rossum
+Every Girl Should Be Married	release_year	1948
+The Face of Love	written_by	Arie Posin
+The Tuskegee Airmen	has_tags	world war ii
+Frances Ha	has_tags	noah baumbach
+Cold Mountain	has_tags	jude law
+Kontroll	release_year	2003
+Hard Candy	has_tags	r
+Othello	has_tags	shakespeare
+Return to the Blue Lagoon	has_tags	island
+Fellini's Casanova	directed_by	Federico Fellini
+Love Me or Leave Me	starred_actors	Cameron Mitchell
+Alive	starred_actors	Hideo Sakaki
+A Civil Action	starred_actors	John Travolta
+The Blood Spattered Bride	release_year	1972
+Private Hell 36	directed_by	Don Siegel
+Dead Snow	in_language	Norwegian
+Breaking the Waves	has_tags	lars von trier
+Still Waiting...	release_year	2009
+Domino	written_by	Richard Kelly
+The Wiz	starred_actors	Michael Jackson
+Quantum of Solace	has_tags	bond
+Come Blow Your Horn	directed_by	Bud Yorkin
+The Woman on the Beach	starred_actors	Robert Ryan
+T-Men	has_tags	anthony mann
+Get Carter	starred_actors	Michael Caine
+Monsieur Batignole	directed_by	Gérard Jugnot
+Anatomy	has_genre	Horror
+The Hatchet Man	directed_by	William A. Wellman
+Prayers for Bobby	starred_actors	Sigourney Weaver
+A Cat in Paris	has_genre	Animation
+The Return of the Pink Panther	starred_actors	Christopher Plummer
+Friendly Persuasion	directed_by	William Wyler
+Trainspotting	has_tags	irvine welsh
+Beauty in Trouble	written_by	Robert Graves
+Back to the Future	has_tags	michael j. fox
+Coffee and Cigarettes	release_year	2003
+Badlands	release_year	1973
+The Constant Gardener	has_tags	british
+Fire and Ice	release_year	1983
+The Best Exotic Marigold Hotel	written_by	Ol Parker
+Friends with Kids	has_tags	adam scott
+Casablanca	written_by	Howard Koch
+This Is the Army	has_tags	bd-r
+Amish Grace	has_tags	gregg champion
+Juice	written_by	Ernest R. Dickerson
+Deep Blue Sea	directed_by	Renny Harlin
+Desperado	has_tags	mexico
+The Man Who Planted Trees	has_genre	Short
+Human Resources	starred_actors	Jalil Lespert
+Sweet Home Alabama	has_tags	romantic comedy
+Georgy Girl	has_tags	1960s
+Looking for Mr. Goodbar	has_imdb_rating	good
+I'm Reed Fish	has_tags	jay baruchel
+Scream 2	has_genre	Mystery
+Splinterheads	directed_by	Brant Sersen
+The Island of Dr. Moreau	written_by	H.G. Wells
+The Ritz	starred_actors	Jack Weston
+The Believers	starred_actors	Robert Loggia
+Scott Pilgrim vs. the World	has_tags	cult
+Free Men	release_year	2011
+Twelve O'Clock High	starred_actors	Hugh Marlowe
+Sweethearts	written_by	Alan Campbell
+Beautiful Creatures	written_by	Richard LaGravenese
+Center Stage	has_tags	nicholas hytner
+Siam Sunset	directed_by	John Polson
+Zatoichi on the Road	release_year	1963
+White Irish Drinkers	has_genre	Drama
+Quick Change	has_tags	manhattan
+The Baytown Outlaws	has_genre	Comedy
+The Strange Case of the End of Civilization as We Know It	written_by	John Cleese
+Into the West	directed_by	Mike Newell
+Taxi	has_tags	french
+D.O.A.	has_tags	remake
+The Man Who Quit Smoking	release_year	1972
+Die Hard 2	has_tags	renny harlin
+Biker Boyz	has_tags	motorcycle
+Exit to Eden	starred_actors	Dan Aykroyd
+Starbuck	release_year	2011
+Lethal Weapon 3	starred_actors	Danny Glover
+Toward the Unknown	starred_actors	Lloyd Nolan
+Father of Invention	starred_actors	Camilla Belle
+Objective, Burma!	directed_by	Raoul Walsh
+Four Horsemen	release_year	2012
+The Sixth Sense	has_tags	haley joel osment
+Strait-Jacket	has_tags	murder
+Exit Smiling	release_year	1926
+Sugar	has_tags	sports
+Exit Wounds	directed_by	Andrzej Bartkowiak
+Female	starred_actors	Ruth Chatterton
+After Dark, My Sweet	release_year	1990
+Pakeezah	release_year	1972
+The Yearling	starred_actors	Jane Wyman
+Superman	has_tags	ned beatty
+American Ninja	has_tags	menahem golan
+Hud	directed_by	Martin Ritt
+The Guys	starred_actors	Sigourney Weaver
+Chouchou	release_year	2003
+Divine Madness	release_year	1980
+The Perks of Being a Wallflower	written_by	Stephen Chbosky
+A Clockwork Orange	has_tags	violence
+Marlowe	has_tags	bd-r
+Disorganized Crime	starred_actors	Fred Gwynne
+Yesterday, Today and Tomorrow	directed_by	Vittorio De Sica
+Strange Cargo	written_by	Richard Sale
+Cutter's Way	release_year	1981
+Very Annie Mary	release_year	2001
+Star Trek	has_tags	story
+The Outlaw	starred_actors	Thomas Mitchell
+Our Town	starred_actors	William Holden
+Little Caesar	has_genre	Crime
+Frozen	directed_by	Chris Buck
+Hood of Horror	has_tags	horror
+The World's Greatest Lover	release_year	1977
+An Actor's Revenge	release_year	1963
+Homefront	written_by	Sylvester Stallone
+Showtime	has_tags	tom dey
+We Are Marshall	has_tags	david strathairn
+Boot Camp	starred_actors	Peter Stormare
+Supercondriaque	starred_actors	Dany Boon
+All Good Things	has_tags	ryan gosling
+Evolver	starred_actors	Ethan Embry
+Slums of Beverly Hills	has_tags	1970s
+The Untouchables	has_tags	brian de palma
+At Midnight I'll Take Your Soul	starred_actors	José Mojica Marins
+The Phantom Tollbooth	has_genre	Animation
+The Holiday	starred_actors	Cameron Diaz
+Blume in Love	release_year	1973
+Black Dawn	release_year	2005
+You Only Live Once	has_genre	Crime
+The Great War	starred_actors	Alberto Sordi
+Frost/Nixon	starred_actors	Frank Langella
+Water for Elephants	starred_actors	Robert Pattinson
+The Town	written_by	Ben Affleck
+To the Devil a Daughter	has_tags	richard widmark
+Anonymous	starred_actors	Rhys Ifans
+The Baker's Wife	release_year	1938
+Choking Man	directed_by	Steve Barron
+Suzy	starred_actors	Cary Grant
+This Property Is Condemned	starred_actors	Robert Redford
+Stir of Echoes	has_tags	david koepp
+The Times of Harvey Milk	starred_actors	Harvey Fierstein
+Wimbledon	release_year	2004
+Stonehenge Apocalypse	release_year	2010
+The Barbarian Invasions	has_genre	Drama
+Design for Living	directed_by	Ernst Lubitsch
+Crouching Tiger, Hidden Dragon	has_tags	china
+Still Mine	written_by	Michael McGowan
+Predators	has_tags	aliens
+Swing Kids	starred_actors	Robert Sean Leonard
+Zapped!	has_genre	Comedy
+Lucky Star	starred_actors	Janet Gaynor
+The Fourth Protocol	has_tags	cold war
+Schindler's List	has_tags	ralph fiennes
+Revenge of the Nerds	has_tags	fraternity
+The Life and Death of Colonel Blimp	has_genre	War
+Firstborn	release_year	1984
+Mothra	has_tags	japan
+The African Queen	has_tags	national film registry
+Enough Said	written_by	Nicole Holofcener
+The Two Jakes	starred_actors	Harvey Keitel
+Underworld	written_by	Len Wiseman
+The Great Muppet Caper	has_genre	Comedy
+The Pervert's Guide to Ideology	release_year	2012
+Baby's Day Out	directed_by	Patrick Read Johnson
+The Doctor and the Devils	release_year	1985
+Baby Take a Bow	written_by	Philip Klein
+Born on the Fourth of July	has_genre	Drama
+Solo	has_genre	Thriller
+Von Richthofen and Brown	has_tags	bd-r
+Under the Cherry Moon	has_genre	Music
+Easy A	directed_by	Will Gluck
+Match Point	has_imdb_rating	good
+Charleston	in_language	Italian
+How Green Was My Valley	starred_actors	Maureen O'Hara
+The Hills Have Eyes Part II	directed_by	Wes Craven
+Storm Center	written_by	Daniel Taradash
+You're Next	directed_by	Adam Wingard
+Star Trek Into Darkness	has_tags	action
+Voodoo Tiger	release_year	1952
+Saint John of Las Vegas	starred_actors	Sarah Silverman
+Cherish	written_by	Finn Taylor
+Takers	starred_actors	Chris Brown
+True Believer	directed_by	Joseph Ruben
+Bob's Birthday	starred_actors	Alison Snowden
+I Was a Male War Bride	directed_by	Howard Hawks
+To the Shores of Tripoli	starred_actors	Nancy Kelly
+Alien Trespass	release_year	2009
+Robots	directed_by	Chris Wedge
+Master of the House	has_genre	Drama
+Lost Horizon	directed_by	Frank Capra
+Pom Poko	has_tags	anthropomorphic
+The Endless Summer	has_tags	hawaii
+Devil's Pond	starred_actors	Tara Reid
+You Will Be My Son	written_by	Gilles Legrand
+The Original Kings of Comedy	starred_actors	Cedric the Entertainer
+The International	has_genre	Action
+The Black Cauldron	written_by	Richard Rich
+Perfect Sisters	has_genre	Crime
+Rainbow Valley	release_year	1935
+Colossal Youth	in_language	Portuguese
+Dark House	starred_actors	Jeffrey Combs
+Last Days in the Desert	starred_actors	Tye Sheridan
+The Rocky Horror Picture Show	has_genre	Comedy
+Loins of Punjab Presents	written_by	Manish Acharya
+The Black Power Mixtape 1967-1975	written_by	Göran Olsson
+Knights of the Round Table	starred_actors	Robert Taylor
+Miami Rhapsody	directed_by	David Frankel
+Liam	directed_by	Stephen Frears
+Last Man Standing	starred_actors	Christopher Walken
+The Long, Hot Summer	release_year	1958
+Spin	directed_by	Henry Pincus
+Merrily We Live	written_by	Jack Jevne
+Looking for Mr. Goodbar	starred_actors	Diane Keaton
+The Little Rascals Save the Day	written_by	Alex Zamm
+Tarzan's Greatest Adventure	written_by	John Guillermin
+After Life	release_year	1998
+Dead Ringer	starred_actors	Karl Malden
+Kelly's Heroes	directed_by	Brian G. Hutton
+Match Point	has_tags	scarlett johansson
+In This World	has_tags	michael winterbottom
+Shadow Man	starred_actors	Imelda Staunton
+The Butcher Boy	release_year	1997
+Sleepaway Camp	directed_by	Robert Hiltzik
+Alone in the Dark	has_genre	Action
+The Giver	starred_actors	Jeff Bridges
+One Night at McCool's	release_year	2001
+Hear My Song	directed_by	Peter Chelsom
+Hudson Hawk	starred_actors	Danny Aiello
+The Narrow Margin	has_tags	film noir
+Stay	has_tags	naomi watts
+The Satanic Rites of Dracula	starred_actors	Christopher Lee
+United 93	has_tags	new york city
+Everyday People	release_year	2004
+Nobel Son	has_tags	dysfunctional family
+An American Rhapsody	in_language	Hungarian
+Riding in Cars with Boys	release_year	2001
+Ten Little Indians	has_genre	Mystery
+A Guide to Recognizing Your Saints	release_year	2006
+Désirée	starred_actors	Michael Rennie
+The Three Stooges Meet Hercules	starred_actors	Larry Fine
+Blood Feast	directed_by	Herschell Gordon Lewis
+Runaway	directed_by	Michael Crichton
+The Big White	has_tags	woody harrelson
+On the Job	has_genre	Action
+East Side, West Side	directed_by	Mervyn LeRoy
+Callan	release_year	1974
+L'Atalante	starred_actors	Michel Simon
+Mr. Deeds	starred_actors	Allen Covert
+Field of Dreams	has_genre	Drama
+Lonely Are the Brave	directed_by	David Miller
+Focus	has_genre	Comedy
+The Chase	starred_actors	Kristy Swanson
+Catch-22	has_genre	Comedy
+Mood Indigo	has_tags	french
+Lassie Come Home	starred_actors	Roddy McDowall
+Ouija	written_by	Stiles White
+Apollo 13	starred_actors	Bill Paxton
+Walk on Water	in_language	Hebrew
+Camel Spiders	directed_by	Jim Wynorski
+Godzilla	directed_by	Gareth Edwards
+Freaky Friday	has_tags	jamie lee curtis
+Charlie and the Chocolate Factory	has_tags	burton
+Children of Nature	release_year	1991
+The Apartment	release_year	1996
+Here Comes Mr. Jordan	release_year	1941
+The Corporation	has_tags	documentary
+This Man Must Die	in_language	French
+Murk	starred_actors	Nicolas Bro
+Jawbreaker	has_tags	julie benz
+The Guardian	directed_by	William Friedkin
+Death Race	written_by	Paul W.S. Anderson
+I'll Never Forget What's'isname	starred_actors	Oliver Reed
+The Expendables 2	release_year	2012
+Every Man for Himself	starred_actors	Nathalie Baye
+Mr. Magoo	starred_actors	Leslie Nielsen
+Interstellar	starred_actors	Matthew McConaughey
+Love Actually	has_tags	comedy
+The Rules of the Game	in_language	French
+Murmur of the Heart	written_by	Louis Malle
+Music Within	release_year	2007
+Stomp the Yard	release_year	2007
+Flashback	has_tags	dennis hopper
+Scream 4	written_by	Kevin Williamson
+Foxcatcher	starred_actors	Channing Tatum
+The Great Gatsby	starred_actors	Mia Farrow
+Dances with Wolves	has_tags	western
+Night and Day	written_by	William Bowers
+Pan's Labyrinth	has_tags	life
+Surviving the Game	has_genre	Action
+Good-bye, My Lady	starred_actors	Phil Harris
+3 Godfathers	has_tags	john ford
+Shorts	has_genre	Family
+The Mechanic	has_tags	assassin
+Desire	starred_actors	William Frawley
+King of California	has_tags	california
+Trance	has_tags	vincent cassel
+The Accidental Husband	starred_actors	Uma Thurman
+The Lost Continent	written_by	Michael Carreras
+Fourteen Hours	has_tags	henry hathaway
+Big Night	has_tags	minnie driver
+Hocus Pocus	has_tags	witches
+A Home of Our Own	starred_actors	Kathy Bates
+Merantau	has_genre	Action
+An Unfinished Life	has_tags	jennifer lopez
+Barnacle Bill	starred_actors	Wallace Beery
+Now and Forever	written_by	Jack Kirkland
+True Confession	has_genre	Comedy
+Hard Rain	starred_actors	Minnie Driver
+Sherlock Holmes Faces Death	has_tags	nigel bruce
+City Lights	has_tags	love
+Riding the Bullet	has_genre	Horror
+Matewan	written_by	John Sayles
+Thursday	has_genre	Crime
+Inland Empire	starred_actors	Jeremy Irons
+The Search	in_language	German
+Sushi Girl	release_year	2012
+Naughty Marietta	release_year	1935
+A Little Bit of Heaven	release_year	2011
+Across the Universe	has_tags	jim sturgess
+Rough Riders	has_tags	war
+Red Corner	starred_actors	Bai Ling
+Rounders	has_tags	john dahl
+Argo	starred_actors	Ben Affleck
+Lethal Weapon 2	starred_actors	Danny Glover
+A Small Town in Texas	has_tags	texas
+The Hunter	starred_actors	Frances O'Connor
+From the Terrace	release_year	1960
+The Servant	starred_actors	James Fox
+Eyewitness	starred_actors	Christopher Plummer
+Back to the Future Part II	has_tags	2015
+The Haunting of Molly Hartley	starred_actors	Haley Bennett
+Limbo	written_by	John Sayles
+Torremolinos 73	in_language	Spanish
+Cool Runnings	has_tags	jamaica
+Dance Flick	directed_by	Damien Dante Wayans
+Deep Impact	release_year	1998
+Bulletproof	starred_actors	Adam Sandler
+King Solomon's Mines	starred_actors	Alison Doody
+House of Sand and Fog	release_year	2003
+A Man Called Adam	starred_actors	Louis Armstrong
+The Last Emperor	directed_by	Bernardo Bertolucci
+Music and Lyrics	has_genre	Music
+Apt Pupil	has_tags	bryan singer
+Alan Partridge	has_tags	steve coogan
+The Front Page	starred_actors	Mary Brian
+Most	written_by	Bobby Garabedian
+Beyond Re-Animator	starred_actors	Jeffrey Combs
+A Run for Your Money	starred_actors	Alec Guinness
+50 First Dates	has_tags	romantic comedy
+Royal Flash	starred_actors	Florinda Bolkan
+It's a Free World...	starred_actors	Kierston Wareing
+Joe Somebody	has_genre	Comedy
+The Grass Harp	written_by	Stirling Silliphant
+A Golden Christmas	release_year	2009
+Red State	written_by	Kevin Smith
+The Angry Red Planet	written_by	Ib Melchior
+The Cave	has_tags	lena headey
+Skyfall	starred_actors	Javier Bardem
+Holy Rollers	starred_actors	Jesse Eisenberg
+You've Got Mail	written_by	Miklós László
+Plymouth Adventure	starred_actors	Leo Genn
+Walk on the Wild Side	starred_actors	Capucine
+Captain January	written_by	Sam Hellman
+Independence Day	written_by	Dean Devlin
+Wolf Creek 2	directed_by	Greg McLean
+Avanti!	in_language	Italian
+The Opposite of Sex	written_by	Don Roos
+The Reluctant Fundamentalist	starred_actors	Riz Ahmed
+Once Upon a Honeymoon	has_genre	Drama
+Firefox	directed_by	Clint Eastwood
+Female Trouble	starred_actors	Mary Vivian Pearce
+Two Days, One Night	release_year	2014
+Mid-August Lunch	has_genre	Drama
+Ministry of Fear	written_by	Graham Greene
+The Last Mountain	has_tags	mining
+Serpico	starred_actors	Al Pacino
+Cocoon	written_by	David Saperstein
+Serpico	has_tags	police
+The Machinist	has_tags	psychological
+Four Rooms	has_tags	allison anders
+Action in the North Atlantic	has_tags	humphrey bogart
+Escape Me Never	has_genre	Drama
+Land of Silence and Darkness	has_tags	werner herzog
+The Evening Star	starred_actors	Miranda Richardson
+Diary of the Dead	written_by	George A. Romero
+Getaway	release_year	2013
+¡Three Amigos!	has_tags	john landis
+Another Thin Man	has_tags	bd-r
+Savage Grace	directed_by	Tom Kalin
+Gardens of Stone	starred_actors	Anjelica Huston
+Sunset	written_by	Rod Amateau
+The Flamingo Kid	release_year	1984
+Our Hospitality	has_tags	silent
+A Five Star Life	starred_actors	Margherita Buy
+Seven Years in Tibet	has_tags	dalai lama
+Welcome to the Rileys	has_genre	Drama
+The Hitcher	has_tags	remake
+Land of the Blind	has_genre	Drama
+Earth Days	has_genre	Documentary
+The Lords of Salem	has_genre	Horror
+Dark Habits	in_language	Spanish
+Bruce Almighty	written_by	Mark O'Keefe
+The Hunted	release_year	2003
+300 Miles to Heaven	in_language	Polish
+Elena	release_year	2011
+Deathtrap	starred_actors	Christopher Reeve
+Malcolm X	starred_actors	Albert Hall
+Silkwood	written_by	Nora Ephron
+The Whistle Blower	has_genre	Thriller
+Adventureland	directed_by	Greg Mottola
+Krrish 3	release_year	2013
+Some Like It Hot	starred_actors	Marilyn Monroe
+Analyze That	release_year	2002
+Alien Nation	release_year	1988
+The Rescuers Down Under	has_genre	Animation
+Coonskin	directed_by	Ralph Bakshi
+Only When I Laugh	release_year	1981
+A Low Down Dirty Shame	written_by	Keenen Ivory Wayans
+Entrapment	release_year	1999
+Two Rode Together	has_genre	Western
+The Mist	has_tags	ending
+Reality	in_language	Italian
+Johnny Angel	starred_actors	Signe Hasso
+The Nomi Song	directed_by	Andrew Horn
+Girl with a Pearl Earring	has_genre	Drama
+La Dolce Vita	has_tags	palme d'or
+Dial M for Murder	starred_actors	Ray Milland
+Belizaire the Cajun	directed_by	Glen Pitre
+Georgia	has_genre	Music
+The Plague of the Zombies	has_genre	Horror
+20,000 Years in Sing Sing	written_by	Lewis E. Lawes
+Always	has_tags	audrey hepburn
+Silverado	starred_actors	Scott Glenn
+Wonder Bar	has_tags	busby berkeley
+The Man Who Fell to Earth	starred_actors	Candy Clark
+The Good German	has_tags	berlin
+A Late Quartet	has_tags	drama
+Vanity Fair	release_year	2004
+Sharky's Machine	written_by	William Diehl
+The Reaping	starred_actors	Hilary Swank
+Table No. 21	in_language	Hindi
+Color Me Blood Red	written_by	Herschell Gordon Lewis
+The Killer Elite	has_genre	Thriller
+Force of Execution	release_year	2013
+Big Animal	starred_actors	Jerzy Stuhr
+All the Fine Young Cannibals	directed_by	Michael Anderson
+Sleepy Hollow	directed_by	Tim Burton
+The River Wild	has_tags	curtis hanson
+Short Time	has_genre	Crime
+High Plains Drifter	has_tags	enigmatic
+Fatal Attraction	has_tags	michael douglas
+Soul Kitchen	starred_actors	Moritz Bleibtreu
+An American Hippie in Israel	release_year	1972
+Vantage Point	has_tags	forest whitaker
+Hellboy	release_year	2004
+Body Snatchers	directed_by	Abel Ferrara
+24 Hour Party People	has_tags	joy division
+The Incredible Burt Wonderstone	has_tags	jim carrey
+Step Brothers	has_genre	Comedy
+Dodsworth	directed_by	William Wyler
+Pride	has_genre	Drama
+Bunty Aur Babli	in_language	Hindi
+Shadowlands	release_year	1985
+Mao's Last Dancer	has_genre	Biography
+Nil by Mouth	starred_actors	Kathy Burke
+The Golden Compass	has_tags	chris weitz
+Ladies in Lavender	directed_by	Charles Dance
+From Paris with Love	has_genre	Action
+Flying Down to Rio	starred_actors	Ginger Rogers
+Planet 51	has_tags	animated
+Dead Man	starred_actors	Crispin Glover
+Extract	has_tags	mila kunis
+The Stepford Wives	directed_by	Frank Oz
+Addicted to Love	has_tags	kelly preston
+RoboCop	has_tags	police
+Jayne Mansfield's Car	starred_actors	Kevin Bacon
+Jean de Florette	has_tags	claude berri
+Hell Comes to Frogtown	written_by	Donald G. Jackson
+Griff the Invisible	starred_actors	Ryan Kwanten
+Live and Let Die	starred_actors	Roger Moore
+Skylark	release_year	1941
+Shriek of the Mutilated	release_year	1974
+Pet Sematary	starred_actors	Denise Crosby
+Surf's Up	starred_actors	Jeff Bridges
+Ruthless People	has_genre	Comedy
+Raajneeti	written_by	Prakash Jha
+Stella Dallas	starred_actors	Barbara Stanwyck
+Le Havre	has_tags	shoes
+G.I. Blues	starred_actors	Elvis Presley
+Play	has_genre	Drama
+Too Late Blues	has_tags	john cassavetes
+The Mist	starred_actors	Marcia Gay Harden
+Stop-Loss	starred_actors	Ryan Phillippe
+Dying Young	starred_actors	Julia Roberts
+For the Boys	directed_by	Mark Rydell
+Swordfish	starred_actors	Hugh Jackman
+Pirates of the Great Salt Lake	starred_actors	Kirby Heyborne
+Ashes and Diamonds	has_tags	old
+Child's Play	has_genre	Horror
+Breaker Morant	written_by	Bruce Beresford
+Vulgar	starred_actors	Bryan Johnson
+The Brothers Bloom	release_year	2008
+Gardens of Stone	release_year	1987
+The Shining	has_genre	Horror
+Isn't She Great	written_by	Paul Rudnick
+Tough Guys	starred_actors	Burt Lancaster
+Reservoir Dogs	has_tags	heist
+120	has_genre	War
+Burnt by the Sun	has_tags	russian
+Border Incident	has_tags	anthony mann
+The Russia House	starred_actors	James Fox
+Wichita	has_genre	Western
+The Wind That Shakes the Barley	has_tags	drama
+Lady in the Lake	has_genre	Mystery
+Kick-Ass	has_tags	comic book
+Django Unchained	has_tags	spaghetti western
+Berlin Express	has_genre	Drama
+Virtuosity	has_tags	russell crowe
+The Bourne Supremacy	has_tags	assassin
+Suddenly, Last Summer	starred_actors	Katharine Hepburn
+Inferno	has_genre	Drama
+A Blueprint for Murder	release_year	1953
+Twin Sitters	starred_actors	David Paul
+Freebie and the Bean	has_genre	Action
+Animal Factory	has_tags	willem dafoe
+Romulus, My Father	starred_actors	Eric Bana
+Cloud Atlas	written_by	Tom Tykwer
+Frida	has_tags	alfred molina
+The Secrets	written_by	Avi Nesher
+What Is It?	directed_by	Crispin Glover
+The Roman Spring of Mrs. Stone	written_by	Gavin Lambert
+Holiday	release_year	1938
+Handle with Care	directed_by	Jonathan Demme
+The Way Back	starred_actors	Colin Farrell
+Thumbelina	written_by	Don Bluth
+Invincible	has_genre	Drama
+Naqoyqatsi	release_year	2002
+Bundle of Joy	starred_actors	Debbie Reynolds
+White Chicks	starred_actors	Marlon Wayans
+Rocky	starred_actors	Carl Weathers
+Kapò	written_by	Gillo Pontecorvo
+Fletch	has_tags	chevy chase
+The Mosquito Net	written_by	Agustí Vila
+Bed of Roses	starred_actors	Mary Stuart Masterson
+They All Laughed	directed_by	Peter Bogdanovich
+Jesus Christ Superstar	has_genre	Music
+The Bang Bang Club	release_year	2010
+The Blue Angel	starred_actors	Emil Jannings
+The Strange Love of Martha Ivers	has_tags	van heflin
+Fever	starred_actors	Bill Duke
+Strings	in_language	Swedish
+Leningrad Cowboys Meet Moses	has_tags	aki kaurismäki
+In the Mood for Love	has_tags	chinese
+Robin Hood	starred_actors	Wallace Beery
+The Women	directed_by	George Cukor
+The Flamingo Kid	starred_actors	Matt Dillon
+Sharkwater	has_genre	Documentary
+Inherent Vice	has_tags	joaquin phoenix
+The Tall T	has_tags	budd boetticher
+Mr. Nobody	has_tags	soundtrack
+Goyokin	written_by	Hideo Gosha
+A Woman of Affairs	has_genre	Drama
+Police	directed_by	Maurice Pialat
+Dangerous Beauty	starred_actors	Oliver Platt
+At Middleton	written_by	Adam Rodgers
+Jay and Silent Bob Strike Back	has_tags	kevin smith
+Maximum Conviction	has_genre	Thriller
+The Trojan Women	starred_actors	Katharine Hepburn
+The Subject Was Roses	release_year	1968
+A Day at the Races	has_tags	bd-r
+Jacob's Ladder	release_year	1990
+Brick	has_tags	dialogue
+Until the End of the World	directed_by	Wim Wenders
+Antz	has_tags	adventure
+Excalibur	has_genre	Fantasy
+The Draughtsman's Contract	has_genre	Mystery
+Duel at Diablo	written_by	Marvin H. Albert
+Boogie Woogie	has_genre	Comedy
+David Copperfield	written_by	Hugh Walpole
+M. Butterfly	starred_actors	John Lone
+Cast Away	has_tags	robert zemeckis
+Following	has_genre	Thriller
+Taxi	in_language	French
+I Know Who Killed Me	has_genre	Thriller
+Fanny and Alexander	release_year	1982
+Crazy Kind of Love	release_year	2013
+Bay of Angels	directed_by	Jacques Demy
+How to Be a Serial Killer	starred_actors	Laura Regan
+The Third Wheel	written_by	Jay Lacopo
+Anything Goes	starred_actors	Bing Crosby
+Ocean's 11	has_tags	bd-r
+The Twelve Chairs	starred_actors	Dom DeLuise
+It Runs in the Family	starred_actors	Mary Steenburgen
+Halloween	has_genre	Horror
+Lord Love a Duck	has_genre	Comedy
+The Patriot	has_tags	mel gibson
+Lost and Delirious	release_year	2001
+Fata Morgana	starred_actors	Lotte Eisner
+What We Do in the Shadows	directed_by	Taika Waititi
+The Last Kiss	has_tags	friends
+Juarez	release_year	1939
+Little Boy Blue	release_year	1997
+Soldier of Orange	in_language	Dutch
+Dad Savage	release_year	1998
+Good Neighbors	written_by	Jacob Tierney
+The Perfume of the Lady in Black	release_year	1974
+Gigi	has_tags	national film registry
+Women Without Men	directed_by	Shirin Neshat
+Mission to Mars	has_tags	mars
+The Disorderly Orderly	has_genre	Comedy
+Lili Marleen	in_language	German
+The Devil and Miss Jones	starred_actors	Charles Coburn
+Lord of the Flies	in_language	English
+Titus	written_by	Julie Taymor
+Popeye	has_tags	altman
+Finding Forrester	starred_actors	F. Murray Abraham
+Pulp Fiction	has_tags	monologue
+RoboCop 3	release_year	1993
+The Family Man	has_tags	nicolas cage
+Never Say Never Again	written_by	Kevin McClory
+La Dolce Vita	directed_by	Federico Fellini
+Wuthering Heights	written_by	Charles MacArthur
+Swamp Thing	has_tags	1980s
+Revolution	directed_by	Hugh Hudson
+State of the Union	written_by	Anthony Veiller
+The Cheyenne Social Club	has_genre	Western
+Affliction	has_tags	sissy spacek
+The Suspect	starred_actors	Charles Laughton
+Tyson	release_year	1995
+The Breakfast Club	has_tags	emilio estevez
+Two Days, One Night	in_language	French
+Jacob's Ladder	starred_actors	Tim Robbins
+Mister Lonely	starred_actors	James Fox
+The Baytown Outlaws	starred_actors	Travis Fimmel
+A Gathering of Old Men	written_by	Ernest J. Gaines
+Will Success Spoil Rock Hunter?	has_tags	bd-r
+The King and I	has_tags	music
+Hedwig and the Angry Inch	release_year	2001
+Inserts	directed_by	John Byrum
+Bowfinger	has_tags	hollywood
+Paradise	has_genre	Romance
+Natural Selection	has_genre	Drama
+The 47 Ronin	directed_by	Kenji Mizoguchi
+The Hangover Part III	has_genre	Comedy
+My Afternoons with Margueritte	has_tags	gérard depardieu
+Hollywood Canteen	has_tags	bd-r
+Voyager	starred_actors	Julie Delpy
+Dog Day Afternoon	has_tags	robbery
+Magic	starred_actors	Burgess Meredith
+They Were Expendable	starred_actors	Robert Montgomery
+Simpatico	starred_actors	Jeff Bridges
+Letters to Juliet	starred_actors	Gael García Bernal
+Dirty Dancing	starred_actors	Jennifer Grey
+Autumn Spring	has_tags	czech
+Buried Alive II	directed_by	Tim Matheson
+Drop Dead Gorgeous	has_tags	kirsten dunst
+Red Planet	has_genre	Thriller
+Beyond the Mat	release_year	1999
+The All Together	has_genre	Comedy
+The Interview	has_tags	police
+Mickey Blue Eyes	in_language	English
+Up the Down Staircase	starred_actors	Eileen Heckart
+Madam Satan	release_year	1930
+The Machine	starred_actors	Caity Lotz
+Charlie and the Chocolate Factory	has_tags	adaptation
+The Scarlet Pimpernel	directed_by	Harold Young
+A Woman's Face	has_genre	Drama
+Popcorn	release_year	1991
+Point Blank	starred_actors	Gilles Lellouche
+Walking Tall	has_tags	johnny knoxville
+The Great Ecstasy of Woodcarver Steiner	directed_by	Werner Herzog
+The Guns of Navarone	has_tags	j. lee thompson
+The Tattooed Widow	in_language	Swedish
+The Caller	starred_actors	Stephen Moyer
+Hit Man	written_by	George Armitage
+Madigan	directed_by	Don Siegel
+Madhouse	starred_actors	Joshua Leonard
+Echelon Conspiracy	starred_actors	Edward Burns
+Father of the Bride Part II	has_tags	steve martin
+Mystery of the 13th Guest	directed_by	William Beaudine
+A Woman Under the Influence	directed_by	John Cassavetes
+Wrong Turn	starred_actors	Desmond Harrington
+Burden of Dreams	has_imdb_rating	good
+Alibi	starred_actors	Chester Morris
+Spirits of the Dead	has_tags	edgar allan poe
+Love Finds Andy Hardy	has_tags	bd-r
+Mad Max Beyond Thunderdome	has_genre	Action
+Ishq	release_year	1997
+White Lightning	directed_by	Joseph Sargent
+In Old Arizona	has_genre	Western
+Brown's Requiem	written_by	James Ellroy
+This Is the Army	has_genre	Musical
+23 Paces to Baker Street	directed_by	Henry Hathaway
+The Shoes of the Fisherman	directed_by	Michael Anderson
+Child's Play	directed_by	Tom Holland
+Shoah	has_genre	Documentary
+John Wick	has_genre	Thriller
+Tom Jones	has_genre	Comedy
+Elles	release_year	2011
+Winged Migration	has_tags	birds
+Tout ce qui brille	written_by	Géraldine Nakache
+The Scorpion King	has_tags	egypt
+Buffalo Soldiers	starred_actors	Anna Paquin
+Sex, Lies, and Videotape	has_tags	lies
+The Girl of the Golden West	written_by	David Belasco
+Offside	has_tags	iran
+Kadosh	directed_by	Amos Gitai
+The Happy Time	in_language	French
+My New Gun	starred_actors	Stephen Collins
+Broken Arrow	starred_actors	James Stewart
+Why Not Me?	in_language	French
+WarGames	starred_actors	Dabney Coleman
+Desperate Hours	starred_actors	Mickey Rourke
+Holy Flying Circus	has_genre	Drama
+Fierce Creatures	starred_actors	Michael Palin
+The Incubus	directed_by	John Hough
+Gervaise	release_year	1956
+Rat Pfink a Boo Boo	written_by	Ray Dennis Steckler
+The Vanishing	has_tags	bd-r
+Smile	starred_actors	Bruce Dern
+The Virgin Queen	starred_actors	Richard Todd
+Grandma's Boy	has_tags	jonah hill
+Back to the Future Part III	has_tags	western
+The Octagon	has_genre	Action
+The First Nudie Musical	has_genre	Musical
+Drifting Clouds	has_tags	aki kaurismäki
+Basquiat	has_tags	david bowie
+The Desperados	starred_actors	Vince Edwards
+The Alamo	written_by	Stephen Gaghan
+Zebra Lounge	directed_by	Kari Skogland
+Westward Ho	has_genre	Western
+King Leopold's Ghost	directed_by	Pippa Scott
+Journey from the Fall	written_by	Ham Tran
+The Magic Box	directed_by	John Boulting
+How the West Was Won	directed_by	John Ford
+Norte, the End of History	in_language	Filipino
+The Guilt Trip	starred_actors	Seth Rogen
+Kill List	release_year	2011
+Mr. Deeds	has_genre	Comedy
+The Vanishing	has_tags	remade
+Stuck in Love	has_genre	Comedy
+Anatomy of a Murder	directed_by	Otto Preminger
+The Wrong Man	has_genre	Crime
+The Castaway Cowboy	starred_actors	Vera Miles
+Bachelor Party	release_year	1984
+The Producers	has_tags	musical
+Hellzapoppin'	directed_by	H.C. Potter
+Night of the Creeps	release_year	1986
+Playing for Keeps	directed_by	Gabriele Muccino
+Norma Rae	written_by	Irving Ravetch
+Claire Dolan	written_by	Lodge Kerrigan
+Futureworld	starred_actors	Peter Fonda
+She Wore a Yellow Ribbon	release_year	1949
+Cowboy	has_genre	Western
+The Fighter	starred_actors	Melissa Leo
+Nowhere in Africa	written_by	Caroline Link
+My Super Ex-Girlfriend	starred_actors	Rainn Wilson
+It's Complicated	starred_actors	Alec Baldwin
+Elegy	release_year	2008
+The Great White Hype	starred_actors	Samuel L. Jackson
+Look Back in Anger	directed_by	Tony Richardson
+God's Not Dead	has_genre	Drama
+Santa's Slay	release_year	2005
+Roadkill	directed_by	Bruce McDonald
+The Truman Show	release_year	1998
+Can't Buy Me Love	has_tags	patrick dempsey
+Guardians of the Galaxy	release_year	2014
+Rudy	starred_actors	Sean Astin
+Liliom	release_year	1934
+The Wedding Banquet	has_tags	gay
+The Wings of the Dove	written_by	Henry James
+Red Sonja	starred_actors	Arnold Schwarzenegger
+Working Girl	has_tags	harrison ford
+Turn Me On, Dammit!	release_year	2011
+Donnie Brasco	has_genre	Crime
+Casualties of War	starred_actors	Sean Penn
+Libel	starred_actors	Olivia de Havilland
+Big Wednesday	directed_by	John Milius
+Alice in Wonderland	has_tags	lewis carroll
+The Miracle of Morgan's Creek	has_tags	preston sturges
+Fahrenheit 9/11	has_tags	documentary
+Oscar and Lucinda	has_genre	Drama
+The Challenge	has_genre	Action
+Snow Cake	has_tags	autism
+The Field	directed_by	Jim Sheridan
+Broken Flowers	release_year	2005
+Carousel	release_year	1956
+Ed and His Dead Mother	has_genre	Comedy
+Elles	in_language	French
+Pink Flamingos	written_by	John Waters
+Juarez	written_by	John Huston
+The Baader Meinhof Complex	has_tags	martina gedeck
+The Medallion	has_genre	Action
+Destination Moon	release_year	1950
+Memento	has_tags	nonlinear
+Rush Hour	has_tags	comedy
+Fast Five	starred_actors	Paul Walker
+Iris	has_tags	jim broadbent
+Ransom	directed_by	Ron Howard
+Slipstream	starred_actors	Anthony Hopkins
+Fried Green Tomatoes	has_tags	jessica tandy
+Live!	release_year	2007
+The Loved One	has_tags	bd-r
+The Sisterhood of the Traveling Pants	starred_actors	America Ferrera
+Don't Torture a Duckling	has_tags	lucio fulci
+Good News	written_by	Betty Comden
+Scott Pilgrim vs. the World	has_tags	edgar wright
+Last Stop for Paul	starred_actors	Neil Mandt
+Yellow Submarine	has_tags	the beatles
+The Story of Vernon and Irene Castle	written_by	Dorothy Yost
+Donovan's Brain	starred_actors	Lew Ayres
+The Polar Express	starred_actors	Tom Hanks
+Like Crazy	directed_by	Drake Doremus
+The Dogs of War	has_tags	war
+Cape Fear	has_tags	remade
+A Film with Me in It	directed_by	Ian Fitzgibbon
+Venus	written_by	Hanif Kureishi
+The Family Man	has_genre	Comedy
+The Good Girl	written_by	Mike White
+The Last Man on Earth	written_by	Richard Matheson
+Flushed Away	written_by	Peter Lord
+Breakfast at Tiffany's	starred_actors	Patricia Neal
+Beyond	directed_by	Pernilla August
+Sidewalks of New York	release_year	2001
+Super Fuzz	starred_actors	Terence Hill
+The Beaver	has_tags	mel gibson
+Kings Row	release_year	1942
+Waterloo Bridge	release_year	1931
+Linewatch	directed_by	Kevin Bray
+Gray's Anatomy	directed_by	Steven Soderbergh
+Presumed Innocent	release_year	1990
+The Parent Trap	directed_by	Nancy Meyers
+The Cave	starred_actors	Cole Hauser
+Angela's Ashes	starred_actors	Emily Watson
+Friday the 13th	has_tags	camp
+Spies Like Us	has_imdb_votes	famous
+Strait-Jacket	has_genre	Thriller
+The Conversation	starred_actors	Frederic Forrest
+The Bride Wore Black	starred_actors	Jeanne Moreau
+Dark Ride	written_by	Craig Singer
+Rio 2	has_tags	jemaine clement
+Super Size Me	written_by	Morgan Spurlock
+Delhi-6	written_by	Rakeysh Omprakash Mehra
+Blow Dry	starred_actors	Alan Rickman
+The Big Doll House	has_tags	prison
+American Sniper	has_tags	clint eastwood
+Half Moon	in_language	Kurdish
+Mon oncle Antoine	in_language	French
+The Adventures of Pluto Nash	starred_actors	Eddie Murphy
+Undercover Brother	has_tags	blaxploitation
+The Substitute	directed_by	Ole Bornedal
+Andy Hardy Meets Debutante	directed_by	George B. Seitz
+A Bell for Adano	has_genre	War
+Death Wish	has_genre	Drama
+Burning Bright	starred_actors	Briana Evigan
+Cover Girl	starred_actors	Rita Hayworth
+Bulworth	release_year	1998
+Cromwell	has_tags	ken hughes
+If Winter Comes	has_genre	Drama
+Bluebeard	release_year	1972
+The Astronaut Farmer	directed_by	Michael Polish
+The Nanny Diaries	written_by	Robert Pulcini
+Iron Will	starred_actors	August Schellenberg
+Hot Shots! Part Deux	directed_by	Jim Abrahams
+Group Sex	written_by	Greg Grunberg
+Hedwig and the Angry Inch	has_genre	Music
+Doctor X	has_tags	cannibalism
+Matilda	release_year	1996
+Night of the Running Man	has_genre	Thriller
+Hotel de Love	release_year	1996
+Stir of Echoes	has_genre	Horror
+Inside Man	starred_actors	Christopher Plummer
+Mephisto	release_year	1981
+Chillerama	directed_by	Adam Green
+Girl, Interrupted	has_tags	whoopi goldberg
+John Carter	starred_actors	Taylor Kitsch
+Chapter Two	has_genre	Comedy
+Bus 174	release_year	2002
+Fantastic Voyage	starred_actors	Stephen Boyd
+Stormy Monday	starred_actors	Sean Bean
+The Little Shop of Horrors	has_tags	roger corman
+The Docks of New York	directed_by	Josef von Sternberg
+The Thin Red Line	has_tags	world war ii
+The Snows of Kilimanjaro	starred_actors	Susan Hayward
+Bitch Slap	has_genre	Action
+Venus in Fur	written_by	Roman Polanski
+Rio 2	release_year	2014
+Fahrenheit 451	has_genre	Drama
+Going Berserk	has_tags	comedy
+A Shine of Rainbows	directed_by	Vic Sarin
+Down Periscope	starred_actors	Harry Dean Stanton
+Larceny, Inc.	starred_actors	Jack Carson
+Shotgun Stories	starred_actors	Michael Shannon
+The Entity	release_year	1982
+Falling in Love Again	directed_by	Steven Paul
+Killer of Sheep	has_tags	bd-r
+Alice in Wonderland	has_tags	imax
+ATM	starred_actors	Alice Eve
+Damsels in Distress	has_genre	Comedy
+Ratatouille	has_genre	Comedy
+Fletch	directed_by	Michael Ritchie
+Snow Angels	starred_actors	Sam Rockwell
+The Rookie	has_tags	john lee hancock
+Angel Eyes	directed_by	Luis Mandoki
+The Mysterious Lady	release_year	1928
+Stars	in_language	Greek
+Skyline	has_genre	Thriller
+Waist Deep	starred_actors	Tyrese Gibson
+Prancer	directed_by	John D. Hancock
+Frankenweenie	starred_actors	Martin Short
+Ordinary Decent Criminal	starred_actors	Kevin Spacey
+Bachelor Mother	release_year	1939
+Sleuth	starred_actors	Michael Caine
+Fanny	has_genre	Drama
+Cause for Alarm!	directed_by	Tay Garnett
+The Comancheros	starred_actors	John Wayne
+Red Lights	has_tags	robert de niro
+Taken 3	has_genre	Thriller
+All Things to All Men	written_by	George Isaac
+Downstairs	has_genre	Drama
+Highly Dangerous	starred_actors	Margaret Lockwood
+Exiled	release_year	2006
+Warlock	directed_by	Steve Miner
+Tokyo Sonata	has_tags	kiyoshi kurosawa
+Empire of the Ants	has_tags	h.g. wells
+Guess Who	has_genre	Comedy
+The War of the Gargantuas	release_year	1966
+The Battery	has_genre	Horror
+The Ladykillers	has_genre	Comedy
+Superbad	has_tags	seth rogen
+Phaedra	starred_actors	Melina Mercouri
+Clash by Night	has_genre	Drama
+To Sir, with Love	has_genre	Drama
+I Know What You Did Last Summer	starred_actors	Sarah Michelle Gellar
+Wrath of the Titans	has_tags	3d
+Aliens in the Attic	has_tags	aliens
+The Kid with a Bike	has_tags	luc dardenne
+Bells of Capistrano	release_year	1942
+To Die For	directed_by	Gus Van Sant
+Jubilee	release_year	1978
+The Seven Year Itch	has_tags	billy wilder
+Paradise	release_year	1991
+Jules and Jim	release_year	1962
+The Thrill of It All	has_tags	comedy
+On Tour	release_year	2010
+Woman in the Moon	written_by	Fritz Lang
+The Color of Money	starred_actors	Paul Newman
+Groundhog Day	has_genre	Comedy
+King Solomon's Mines	starred_actors	Richard Chamberlain
+Affliction	has_tags	james coburn
+Helter Skelter	starred_actors	Steve Railsback
+I Love You, Don't Touch Me!	release_year	1997
+Alive	directed_by	Frank Marshall
+Double Take	written_by	Johan Grimonprez
+The Last Boy Scout	starred_actors	Damon Wayans
+Batman Returns	starred_actors	Michael Keaton
+The Wedding Night	starred_actors	Anna Sten
+Nathalie...	has_genre	Drama
+The Second Civil War	release_year	1997
+Cold Comfort Farm	release_year	1995
+What Lies Beneath	has_genre	Horror
+American History X	has_tags	drama
+Love Potion No. 9	has_tags	sandra bullock
+P.S.	has_genre	Drama
+Power	starred_actors	Richard Gere
+Confidentially Yours	release_year	1983
+The Matriarch	directed_by	Markku Pölönen
+Sightseers	written_by	Amy Jump
+Half Past Dead	starred_actors	Morris Chestnut
+The Wind and the Lion	starred_actors	Brian Keith
+Man of the World	starred_actors	Carole Lombard
+Roads to Koktebel	written_by	Boris Khlebnikov
+Pathology	release_year	2008
+The In-Laws	release_year	1979
+The Snow Walker	release_year	2003
+Jaws	has_tags	shark
+Trog	written_by	Aben Kandel
+Two Drifters	written_by	João Pedro Rodrigues
+Boys and Girls	release_year	2000
+Cinderella	has_tags	fairy tale
+Cruising	has_tags	al pacino
+A Friend of Mine	has_genre	Drama
+Ernest Goes to Camp	directed_by	John R. Cherry III
+Close Encounters of the Third Kind	starred_actors	Teri Garr
+Top Hat	starred_actors	Edward Everett Horton
+Force of Evil	starred_actors	John Garfield
+Pixote	has_tags	hector babenco
+The Illusionist	written_by	Jacques Tati
+Proxy	has_genre	Horror
+Hedwig and the Angry Inch	written_by	Stephen Trask
+The Cameraman	directed_by	Edward Sedgwick
+Smiley Face	directed_by	Gregg Araki
+The Spectacular Now	starred_actors	Shailene Woodley
+The Girl of the Golden West	release_year	1938
+Thunderball	has_genre	Action
+Beautiful Boxer	in_language	Thai
+The Church	directed_by	Michele Soavi
+Tentacles	starred_actors	John Huston
+Helen	written_by	Sandra Nettelbeck
+20,000 Days on Earth	has_genre	Documentary
+The Quickie	release_year	2001
+The Hunter	written_by	Daniel Nettheim
+Beauty and the Beast	has_tags	animated
+36 Hours	starred_actors	Rod Taylor
+The Peacemaker	has_tags	george clooney
+Inkheart	has_tags	brendan fraser
+21	starred_actors	Kate Bosworth
+Firstborn	starred_actors	Peter Weller
+The Signal	has_tags	black comedy
+Smokin' Aces	has_tags	chris pine
+Black Swan	release_year	2010
+Bride Wars	has_genre	Comedy
+Oh My God	release_year	2009
+Silent Running	directed_by	Douglas Trumbull
+Plastic Bag	written_by	Ramin Bahrani
+Roman Holiday	written_by	Dalton Trumbo
+Mega Piranha	written_by	Eric Forsberg
+The Gauntlet	has_genre	Action
+Retrograde	release_year	2004
+Grand Prix	has_tags	racing
+Awake	directed_by	Joby Harold
+Cannonball Run II	starred_actors	Frank Sinatra
+Commandos Strike at Dawn	directed_by	John Farrow
+The Ice Storm	has_tags	drama
+Wheel of Time	has_genre	Documentary
+Tales of Ordinary Madness	starred_actors	Ben Gazzara
+Bad Girl	written_by	Viña Delmar
+The Fog	starred_actors	Selma Blair
+Unidentified Flying Oddball	has_tags	king arthur
+The Power of One	release_year	1992
+King Solomon's Mines	has_genre	Adventure
+Flirting	starred_actors	Noah Taylor
+The Watcher in the Woods	starred_actors	Carroll Baker
+Only Old Men Are Going to Battle	has_genre	Drama
+Paris 36	has_genre	Drama
+Reasonable Doubt	release_year	2014
+Tapped	written_by	Stephanie Soechtig
+The Lone Wolf Spy Hunt	release_year	1939
+Sour Grapes	release_year	1998
+The Breakfast Club	has_tags	judd nelson
+Room for One More	release_year	1952
+Dragonwyck	written_by	Joseph L. Mankiewicz
+Identity	has_tags	clea duvall
+Mr. Jones	starred_actors	Lena Olin
+Annapolis	directed_by	Justin Lin
+White Water Summer	has_genre	Drama
+Penitentiary II	release_year	1982
+Since You Went Away	directed_by	John Cromwell
+Lost in Beijing	release_year	2007
+Sleepless in Seattle	has_tags	nora ephron
+Roads to Koktebel	release_year	2003
+The Big Green	directed_by	Holly Goldberg Sloan
+Malibu's Most Wanted	has_genre	Comedy
+The Dark Crystal	starred_actors	Frank Oz
+Raiders of the Lost Ark	starred_actors	Harrison Ford
+From Up on Poppy Hill	release_year	2011
+Dreamgirls	directed_by	Bill Condon
+Knight and Day	has_tags	fun
+Each Dawn I Die	starred_actors	James Cagney
+Tammy	starred_actors	Melissa McCarthy
+Tinker Tailor Soldier Spy	has_tags	espionage
+Necessary Roughness	directed_by	Stan Dragoti
+The Thrill of Brazil	has_genre	Musical
+About Schmidt	has_genre	Comedy
+Elizabethtown	has_tags	kirsten dunst
+The Freshman	written_by	Tim Whelan
+Traffic Department	release_year	2013
+Body Heat	has_tags	noir
+Prom Night	has_genre	Horror
+The Adversary	directed_by	Nicole Garcia
+Zookeeper	has_genre	Comedy
+You Ain't Seen Nothin' Yet	written_by	Alain Resnais
+Before the Devil Knows You're Dead	starred_actors	Marisa Tomei
+Postcards from the Edge	has_genre	Comedy
+The Godson	has_tags	rodney dangerfield
+Forget Me Not	has_genre	Horror
+A Fistful of Dollars	has_tags	spain
+Little Women	starred_actors	Winona Ryder
+Into the Wild	written_by	Sean Penn
+Innocence	starred_actors	Linus Roache
+The Telephone	release_year	1988
+Criminal	starred_actors	John C. Reilly
+Gentleman Jim	has_tags	raoul walsh
+Last Chance Harvey	directed_by	Joel Hopkins
+Excalibur	has_genre	Drama
+Slaughter	written_by	Stewart Hopewell
+The Ghost Ship	has_genre	Drama
+Crazy as Hell	release_year	2002
+The Little Traitor	has_genre	Drama
+Kill Switch	written_by	Steven Seagal
+Born to Be Bad	directed_by	Nicholas Ray
+Game Change	starred_actors	Ed Harris
+Scream of Stone	has_tags	werner herzog
+A Christmas Carol	starred_actors	Tim Curry
+Bully	release_year	2001
+Octopussy	directed_by	John Glen
+Angel-A	starred_actors	Jamel Debbouze
+The Money Pit	has_tags	tom hanks
+Miss Bala	has_genre	Drama
+Someone Marry Barry	directed_by	Rob Pearlstein
+Sabata	written_by	Gianfranco Parolini
+She's the Man	starred_actors	Laura Ramsey
+Mammuth	has_genre	Drama
+Short Cuts	release_year	1993
+Bad Influence	release_year	1990
+Journey to the Center of the Earth	has_genre	Adventure
+A Guide to Recognizing Your Saints	directed_by	Dito Montiel
+Leprechaun	directed_by	Mark Jones
+Deadheads	directed_by	Brett Pierce
+Priest	directed_by	Antonia Bird
+Shane	starred_actors	Alan Ladd
+Off the Map	has_tags	campbell scott
+Julia	written_by	Lillian Hellman
+He Loves Me... He Loves Me Not	in_language	French
+Blue Caprice	written_by	Alexandre Moors
+White Lightning	starred_actors	Burt Reynolds
+A Foreign Affair	has_tags	billy wilder
+Coriolanus	has_tags	shakespeare
+A Tale of the Wind	release_year	1988
+That Hagen Girl	starred_actors	Shirley Temple
+Sabrina	has_tags	julia ormond
+Lawrence of Arabia	has_genre	Adventure
+The Class	has_tags	french
+A Far Off Place	has_genre	Family
+Flannel Pajamas	has_genre	Romance
+Isolation	has_genre	Horror
+The Names of Love	written_by	Michel Leclerc
+Final Destination	has_tags	suspense
+Wings of Desire	starred_actors	Bruno Ganz
+Platinum Blonde	starred_actors	Jean Harlow
+Last Stand at Saber River	has_genre	Western
+Enigma	directed_by	Michael Apted
+The Long, Hot Summer	has_tags	tennessee williams
+Meet the Parents	starred_actors	Ben Stiller
+The 300 Spartans	release_year	1962
+Miss Firecracker	starred_actors	Tim Robbins
+Beyond the Sea	written_by	Kevin Spacey
+Stolen Face	directed_by	Terence Fisher
+Three Brave Men	written_by	Philip Dunne
+Elstree Calling	release_year	1930
+Harry and the Hendersons	release_year	1987
+Why Did I Get Married Too?	starred_actors	Janet Jackson
+Identity	directed_by	James Mangold
+The Ramen Girl	has_tags	japan
+The Nightmare Before Christmas	has_tags	musical
+9500 Liberty	written_by	Annabel Park
+Fun with Dick and Jane	written_by	Judd Apatow
+Welcome to the Dollhouse	directed_by	Todd Solondz
+Contagion	has_tags	marion cotillard
+There's No Business Like Show Business	written_by	Lamar Trotti
+Brigadoon	has_tags	broadway
+Lawless Range	starred_actors	John Wayne
+Cypher	starred_actors	Jeremy Northam
+The Company You Keep	release_year	2012
+How to Live Forever	has_genre	Documentary
+Harry Potter and the Half-Blood Prince	has_tags	david yates
+Ajantrik	written_by	Ritwik Ghatak
+Separate Tables	written_by	John Gay
+No Country for Old Men	has_tags	texas
+Grotesque	written_by	Joe Tornatore
+Oldboy	has_tags	violence
+Perfect Sense	has_tags	david mackenzie
+Dust	directed_by	Milcho Manchevski
+Mikey and Nicky	directed_by	Elaine May
+Far from the Madding Crowd	has_tags	bd-r
+Phaedra	directed_by	Jules Dassin
+The Solid Gold Cadillac	written_by	Abe Burrows
+Serenity	written_by	Joss Whedon
+Royal Flash	starred_actors	Alan Bates
+Strictly Sexual	release_year	2008
+Cactus Flower	written_by	Pierre Barillet
+Excess Baggage	starred_actors	Alicia Silverstone
+Cuba	directed_by	Richard Lester
+Wait Until Dark	has_tags	alan arkin
+Late Phases	has_genre	Drama
+Planet of the Apes	has_tags	franklin j. schaffner
+Lars and the Real Girl	has_tags	sweet
+Dear God	has_genre	Comedy
+The January Man	written_by	John Patrick Shanley
+A Guy Named Joe	written_by	Dalton Trumbo
+Birthday Girl	has_genre	Crime
+Finding North	has_genre	Drama
+Brave	has_tags	pixar
+The Time Traveler's Wife	starred_actors	Eric Bana
+The Lost Boys	release_year	1987
+Warlock	starred_actors	Henry Fonda
+Fun in Acapulco	has_genre	Music
+Summer Catch	starred_actors	Jessica Biel
+Goodfellas	has_genre	Crime
+Read My Lips	starred_actors	Emmanuelle Devos
+Ransom	has_tags	lili taylor
+Bubba Ho-Tep	written_by	Don Coscarelli
+A Bug's Life	written_by	Andrew Stanton
+Imaginary Crimes	release_year	1994
+Faster	has_tags	billy bob thornton
+The Well-Digger's Daughter	has_genre	Comedy
+Stay	has_genre	Drama
+Thank You for Smoking	has_tags	william h. macy
+Muppets from Space	directed_by	Tim Hill
+Bull Durham	has_genre	Romance
+If Looks Could Kill	has_genre	Action
+Much Ado About Nothing	has_genre	Comedy
+The Interpreter	starred_actors	Nicole Kidman
+Camera Buff	release_year	1979
+Nightcrawler	has_tags	thriller
+The Beast with Five Fingers	starred_actors	Peter Lorre
+Snowbeast	written_by	Joseph Stefano
+Zindagi Na Milegi Dobara	written_by	Farhan Akhtar
+Happy, Texas	written_by	Mark Illsley
+A Very Brady Sequel	starred_actors	Gary Cole
+Carmen	in_language	French
+Something's Gotta Give	has_tags	jack nicholson
+The Wasp Woman	release_year	1959
+One Night Stand	has_genre	Drama
+Battle of the Bulge	starred_actors	Robert Shaw
+Kill Your Darlings	starred_actors	Alexander Skarsgård
+The Blues Brothers	written_by	Dan Aykroyd
+The Violent Kind	written_by	Phil Flores
+Hall Pass	release_year	2011
+Spun	has_genre	Crime
+Auto Focus	release_year	2002
+Veronica Mars	release_year	2014
+Gods of the Plague	has_tags	rainer werner fassbinder
+The Boy and the Pirates	release_year	1960
+Seed	directed_by	Uwe Boll
+Ray	has_tags	biographical
+A Nightmare on Elm Street	has_tags	franchise
+.45	has_genre	Thriller
+Strayed	starred_actors	Emmanuelle Béart
+The Suspicious Death of a Minor	release_year	1975
+Downhill Racer	release_year	1969
+Between Your Legs	has_genre	Drama
+The Prince and the Pauper	has_tags	claude rains
+The Shawshank Redemption	has_tags	redemption
+Lorna	directed_by	Russ Meyer
+The Little Foxes	written_by	Dorothy Parker
+Akira	has_tags	manga
+Crisis	written_by	George Tabori
+Jane Eyre	directed_by	Delbert Mann
+Anne of the Thousand Days	release_year	1969
+Drive	directed_by	Nicolas Winding Refn
+Murder!	starred_actors	Herbert Marshall
+A Streetcar Named Desire	release_year	1984
+High Fidelity	written_by	Nick Hornby
+White Nights	starred_actors	Jerzy Skolimowski
+The Thin Man	has_tags	myrna loy
+The Stars Look Down	has_tags	carol reed
+Triumph of the Will	has_tags	leni riefenstahl
+Passengers	directed_by	Rodrigo García
+Sitting Pretty	starred_actors	Maureen O'Hara
+Annie	has_tags	tim curry
+Special	release_year	2006
+The Verdict	has_tags	courtroom
+I Love You Again	has_tags	myrna loy
+Norma Rae	starred_actors	Ron Leibman
+Fargo	starred_actors	Peter Stormare
+The Castle	has_tags	australia
+May	release_year	2002
+The Portrait of a Lady	has_tags	john malkovich
+If I Had a Million	starred_actors	Charles Laughton
+Fritz the Cat	has_tags	animated
+Thunderball	written_by	Jack Whittingham
+Invisible Agent	written_by	Curt Siodmak
+Walking Tall	starred_actors	Joe Don Baker
+The Last Dragon	release_year	1985
+The Beast	starred_actors	William Petersen
+Beautiful	starred_actors	Kathleen Turner
+Even Cowgirls Get the Blues	written_by	Gus Van Sant
+All About Eve	starred_actors	George Sanders
+Vengeance	in_language	English
+How Green Was My Valley	starred_actors	Donald Crisp
+The Mod Squad	starred_actors	Claire Danes
+Follow the Fleet	written_by	Dwight Taylor
+Unbeatable	has_tags	sports
+Cocoon	has_tags	aliens
+Nobel Son	has_tags	alan rickman
+Back Street	has_genre	Drama
+Huckleberry Finn	directed_by	J. Lee Thompson
+1408	has_tags	mikael håfström
+Duel in the Sun	starred_actors	Gregory Peck
+The 3rd Voice	has_genre	Thriller
+The Out-of-Towners	has_genre	Comedy
+Small Change	written_by	François Truffaut
+We Need to Talk About Kevin	release_year	2011
+Rust and Bone	release_year	2012
+Boyz n the Hood	has_tags	ice cube
+Two Bits	release_year	1995
+Jack	starred_actors	Diane Lane
+Dillinger	release_year	1973
+Mayerling	written_by	Terence Young
+Grace of My Heart	directed_by	Allison Anders
+In the Loop	has_tags	politics
+The Matchmaker	has_genre	Comedy
+Bananas	has_genre	Comedy
+House of Usher	directed_by	Roger Corman
+Q	starred_actors	Richard Roundtree
+Godzilla vs. Destoroyah	has_tags	toho
+The Outlaw Josey Wales	starred_actors	Chief Dan George
+Christopher Strong	starred_actors	Katharine Hepburn
+Glory	starred_actors	Morgan Freeman
+Morning Glory	directed_by	Lowell Sherman
+Paradise Road	directed_by	Bruce Beresford
+Urban Cowboy	has_genre	Drama
+Salon Kitty	directed_by	Tinto Brass
+The Prince and the Pauper	written_by	Mark Twain
+To Rome with Love	has_tags	woody allen
+No Man of Her Own	starred_actors	John Lund
+Time of the Gypsies	release_year	1988
+Dreamchild	starred_actors	Peter Gallagher
+Bulworth	has_tags	warren beatty
+Analyze This	written_by	Peter Tolan
+Jar City	written_by	Baltasar Kormákur
+The Heart Is Deceitful Above All Things	release_year	2004
+Flesh	written_by	Paul Morrissey
+The Meteor Man	release_year	1993
+The Cell	has_genre	Thriller
+A Raisin in the Sun	starred_actors	Sidney Poitier
+Feeling Minnesota	has_tags	keanu reeves
+Country Life	starred_actors	Sam Neill
+A Family	directed_by	Pernille Fischer Christensen
+13 Going on 30	starred_actors	Jennifer Garner
+Copper Mountain	starred_actors	Jim Carrey
+My Best Friend	has_tags	french film
+Europa Report	has_tags	found footage
+Cry Freedom	directed_by	Richard Attenborough
+Maborosi	starred_actors	Tadanobu Asano
+Easy Virtue	directed_by	Stephan Elliott
+Big Bang Love, Juvenile A	release_year	2006
+Distant Drums	has_genre	Western
+Richard III	written_by	Ian McKellen
+The Big Boss	starred_actors	Bruce Lee
+My Dog Skip	directed_by	Jay Russell
+Blue Chips	starred_actors	Nick Nolte
+First Daughter	has_tags	katie holmes
+Hearts of the West	has_tags	bd-r
+Dead Men Don't Wear Plaid	starred_actors	Rachel Ward
+Experiment in Terror	has_tags	blake edwards
+A Very Long Engagement	starred_actors	Audrey Tautou
+Altered States	has_tags	ken russell
+Henry V	has_genre	Drama
+The Girl with the Dragon Tattoo	written_by	Stieg Larsson
+Dirty Work	written_by	Norm MacDonald
+Beneath	starred_actors	Chris Conroy
+Dolores Claiborne	release_year	1995
+Bloodbrothers	release_year	1978
+Red Dragon	has_tags	hannibal lecter
+Body Double	starred_actors	Melanie Griffith
+Gimme the Loot	release_year	2012
+Anastasia	starred_actors	Yul Brynner
+Commandos Strike at Dawn	starred_actors	Anna Lee
+Teorema	has_tags	terence stamp
+Two for the Money	starred_actors	Rene Russo
+My Best Girl	release_year	1927
+Moon	directed_by	Duncan Jones
+The Big Red One	has_tags	samuel fuller
+The Rose	has_tags	1960s
+Airport 1975	directed_by	Jack Smight
+The Illusionist	written_by	Neil Burger
+Next Stop Wonderland	directed_by	Brad Anderson
+Pinocchio	has_tags	fantasy
+Tactical Force	starred_actors	Steve Austin
+Seven Beauties	release_year	1975
+Wild River	starred_actors	Jo Van Fleet
+The Mean Season	has_genre	Thriller
+Knocked Up	has_tags	seth rogen
+Saint Joan	directed_by	Otto Preminger
+London Boulevard	has_tags	colin farrell
+The Lords of Discipline	release_year	1983
+The Debt	has_genre	Drama
+Drömkåken	directed_by	Peter Dalle
+Lone Survivor	has_tags	war
+A Summer by the River	written_by	Markku Pölönen
+The Royal Tenenbaums	has_tags	love
+Scorchers	has_genre	Drama
+Last Summer in the Hamptons	starred_actors	Victoria Foyt
+Ruby Sparks	release_year	2012
+The Seafarers	has_genre	Documentary
+The Cardinal	has_tags	bd-r
+Stagecoach	has_genre	Western
+Buffalo Bill	has_genre	Western
+On the Beach	starred_actors	Rachel Ward
+The World's End	has_tags	martin freeman
+Amsterdamned	release_year	1988
+The Lover	release_year	1992
+Bookies	has_genre	Comedy
+Star 80	release_year	1983
+B.F.'s Daughter	directed_by	Robert Z. Leonard
+The Ghost Goes West	has_genre	Comedy
+Arena	starred_actors	Claudia Christian
+The Son of Kong	has_genre	Adventure
+The Land Unknown	has_genre	Adventure
+Nim's Island	starred_actors	Abigail Breslin
+Forbidden City Cop	has_tags	hong kong
+Bug	release_year	1975
+Two Lovers	has_tags	drama
+Primary Colors	has_tags	politics
+Arrowhead	release_year	1953
+The Way Back	has_genre	Drama
+Cold Creek Manor	starred_actors	Sharon Stone
+Storm Warning	starred_actors	Steve Cochran
+The Hours	starred_actors	Meryl Streep
+Submerged	starred_actors	William Hope
+Miracle on 34th Street	has_tags	remake
+Bright Future	has_genre	Drama
+Drum	written_by	Jason Filardi
+Trainspotting	has_tags	kelly macdonald
+Modern Romance	written_by	Monica Mcgowan Johnson
+Dick	starred_actors	Dan Hedaya
+The Grand Budapest Hotel	release_year	2014
+The Rainmaker	has_tags	danny devito
+Gandhi	has_tags	own
+Labyrinth	has_tags	bd-r
+Shutter Island	has_tags	island
+The Haunting	has_tags	robert wise
+The Steel Helmet	written_by	Samuel Fuller
+Lawrence of Arabia	written_by	Robert Bolt
+The Black Cat	release_year	1934
+The Awful Truth	has_tags	national film registry
+They Died with Their Boots On	release_year	1941
+The Match Factory Girl	has_tags	aki kaurismäki
+Iron Man	has_tags	jon favreau
+Dawn of the Dead	has_tags	mall
+City of Angels	has_tags	angel
+Pitfall	has_tags	criterion
+Play	release_year	2011
+Drive	has_tags	bryan cranston
+Deep Impact	has_tags	disaster
+The Sand Pebbles	has_tags	richard attenborough
+Madame Bovary	written_by	Robert Ardrey
+Puncture	release_year	2011
+Banana Joe	has_genre	Comedy
+The Strawberry Blonde	starred_actors	James Cagney
+Professor Beware	has_genre	Comedy
+The Maze	has_genre	Horror
+Tim's Vermeer	has_tags	documentary
+Argo	has_tags	john goodman
+Hearts in Atlantis	release_year	2001
+Walking Tall	has_genre	Action
+Beowulf	has_tags	anthony hopkins
+Goin' South	starred_actors	Jack Nicholson
+Candyman	release_year	1992
+Waterboys	written_by	Shinobu Yaguchi
+Another Chance	directed_by	Jesse Vint
+Hidden Agenda	directed_by	Ken Loach
+Taking Care of Business	starred_actors	James Belushi
+The Hour of the Furnaces	directed_by	Octavio Getino
+Lord of War	written_by	Andrew Niccol
+Anonymous	has_genre	Drama
+Crank	has_genre	Action
+Drowning by Numbers	has_tags	numbers
+Not as a Stranger	has_genre	Drama
+The Shipping News	has_tags	judi dench
+Chase a Crooked Shadow	starred_actors	Anne Baxter
+Barcelona	has_tags	spain
+After Alice	starred_actors	Kiefer Sutherland
+The Brides of Fu Manchu	release_year	1966
+Monsters, Inc.	has_tags	pixar
+Ip Man 2	release_year	2010
+Easy Living	starred_actors	Edward Arnold
+Return from Witch Mountain	starred_actors	Christopher Lee
+A Funny Man	has_genre	Drama
+The Onion Field	has_tags	harold becker
+Gigantic	directed_by	Matt Aselton
+Remember the Night	release_year	1940
+This Is the Army	directed_by	Michael Curtiz
+Pitch Black	directed_by	David Twohy
+The Rack	has_tags	rod serling
+An Education	has_tags	lone scherfig
+High Anxiety	starred_actors	Cloris Leachman
+A Dog of Flanders	release_year	1999
+Unknown	starred_actors	Bridget Moynahan
+Humboldt County	directed_by	Darren Grodsky
+The Last Outpost	directed_by	Lewis R. Foster
+Blue Skies	starred_actors	Fred Astaire
+All About Eve	has_tags	anne baxter
+Star Trek Into Darkness	has_tags	chris pine
+Twister	starred_actors	Suzy Amis
+Ellie Parker	has_genre	Drama
+Rebecca	has_genre	Thriller
+The Private Eyes	written_by	Tim Conway
+The Time of Your Life	starred_actors	James Cagney
+Kin-dza-dza!	directed_by	Georgiy Daneliya
+In Good Company	has_tags	advertising
+Expired	starred_actors	Samantha Morton
+Tequila Sunrise	release_year	1988
+The Theory of Everything	has_tags	eddie redmayne
+The Big Chill	has_genre	Drama
+Paris, Texas	has_tags	nastassja kinski
+Moving Violations	release_year	1985
+Ghosts of Mars	starred_actors	Ice Cube
+The Tree of Life	directed_by	Terrence Malick
+Barbarians at the Gate	starred_actors	Joanna Cassidy
+Unbroken	has_tags	war
+Summer and Smoke	has_genre	Drama
+Saw IV	starred_actors	Betsy Russell
+Contraband	has_genre	Action
+Assault on Precinct 13	release_year	1976
+2012	written_by	Roland Emmerich
+Jerusalem	starred_actors	Maria Bonnevie
+Bordello of Blood	release_year	1996
+Folks!	release_year	1992
+Babysitting	directed_by	Philippe Lacheau
+The Long Kiss Goodnight	has_genre	Action
+Who's Your Caddy?	starred_actors	Faizon Love
+Champagne for Caesar	starred_actors	Barbara Britton
+Blind Dating	release_year	2006
+The Bride Comes Home	written_by	Claude Binyon
+The Appaloosa	starred_actors	Anjanette Comer
+All Is Bright	directed_by	Phil Morrison
+The Roaring Twenties	starred_actors	Priscilla Lane
+Holy Man	starred_actors	Kelly Preston
+Veer-Zaara	has_tags	yash chopra
+The Swarm	starred_actors	Richard Chamberlain
+Killer of Sheep	written_by	Charles Burnett
+Good Hair	has_genre	Documentary
+Bedlam	release_year	1946
+City of the Living Dead	written_by	Lucio Fulci
+Friends with Benefits	has_genre	Comedy
+Yatterman	has_genre	Comedy
+The Girl on the Train	has_genre	Drama
+Deep Impact	has_tags	science
+Report to the Commissioner	starred_actors	Michael Moriarty
+Solaris	has_tags	steven soderbergh
+Alpha Dog	has_tags	true story
+Addicted to Love	starred_actors	Meg Ryan
+Joe Gould's Secret	directed_by	Stanley Tucci
+Undercover Brother	written_by	John Ridley
+It Happened One Night	has_tags	clark gable
+The Caine Mutiny	has_tags	edward dmytryk
+Somebody Up There Likes Me	has_tags	boxing
+The Sea Wolf	directed_by	Michael Curtiz
+Little Fauss and Big Halsy	release_year	1970
+Point Blank	has_tags	john boorman
+30 Beats	has_genre	Romance
+Talent for the Game	starred_actors	Lorraine Bracco
+Club Paradise	written_by	Harold Ramis
+The Sunshine Boys	written_by	Neil Simon
+Everyone Says I Love You	has_genre	Musical
+My Name Is Julia Ross	directed_by	Joseph H. Lewis
+La nostra vita	in_language	Italian
+Jumpin' Jack Flash	starred_actors	Whoopi Goldberg
+Oscar	starred_actors	Ornella Muti
+The Lost Son	in_language	French
+The Interview	written_by	Evan Goldberg
+Tell Them Willie Boy Is Here	written_by	Abraham Polonsky
+Knowing	has_tags	nicolas cage
+Honeymoon in Vegas	has_tags	nicolas cage
+Morning Glory	written_by	Aline Brosh McKenna
+Broken English	in_language	English
+The Passion of the Christ	in_language	Latin
+Scarface	starred_actors	Ann Dvorak
+Den ofrivillige golfaren	in_language	English
+Cube Zero	has_genre	Thriller
+A Lady Takes a Chance	starred_actors	Jean Arthur
+Get Over It	release_year	2001
+Don McKay	starred_actors	Thomas Haden Church
+My Cousin Vinny	has_tags	court
+Blues Brothers 2000	has_tags	dan aykroyd
+Gentleman Jim	starred_actors	Errol Flynn
+Wisconsin Death Trip	release_year	1999
+Bulletproof	has_genre	Comedy
+Lions for Lambs	has_tags	robert redford
+The Three Marias	has_genre	Drama
+Now, Voyager	written_by	Casey Robinson
+A Thin Line Between Love and Hate	directed_by	Martin Lawrence
+Good News	starred_actors	Peter Lawford
+Letters from Iwo Jima	has_tags	letters
+Get Carter	release_year	2000
+The Woods	starred_actors	Bruce Campbell
+Free Money	directed_by	Yves Simoneau
+Einstein and Eddington	starred_actors	David Tennant
+Mortal Kombat	starred_actors	Christopher Lambert
+First Daughter	starred_actors	Michael Keaton
+Last Run	has_genre	Action
+Ocean's Thirteen	has_tags	sequel
+We're the Millers	has_tags	emma roberts
+The Winter Guest	starred_actors	Phyllida Law
+The Holiday	starred_actors	Kate Winslet
+The Longshots	release_year	2008
+Caught Inside	release_year	2010
+The Misfortunates	release_year	2009
+Vanya on 42nd Street	written_by	Andre Gregory
+Can-Can	release_year	1960
+What Price Hollywood?	written_by	Jane Murfin
+Keith	release_year	2008
+Shrink	starred_actors	Kevin Spacey
+Trade	release_year	2007
+Invisible Ghost	has_genre	Horror
+Annie	release_year	1982
+Shanghai Noon	starred_actors	Jackie Chan
+The Ladykillers	directed_by	Alexander Mackendrick
+The Other Woman	starred_actors	Leslie Mann
+Les Biches	directed_by	Claude Chabrol
+Murder on the Orient Express	has_genre	Crime
+Bambi	has_tags	animation
+The Dilemma	has_tags	winona ryder
+Lawrence of Arabia	has_tags	world war i
+Paheli	directed_by	Amol Palekar
+Pickpocket	release_year	1959
+Together	written_by	Lukas Moodysson
+Ben-Hur	written_by	Karl Tunberg
+Voyage to Cythera	release_year	1984
+The Girl with the Dragon Tattoo	has_tags	r
+The Flim-Flam Man	has_tags	irvin kershner
+Film Geek	written_by	James Westby
+Kill Your Darlings	in_language	Swedish
+Platoon	starred_actors	Tom Berenger
+Elephant Boy	directed_by	Zoltan Korda
+Days of Heaven	has_tags	terrence malick
+Taken	starred_actors	Maggie Grace
+Puss in Boots	has_tags	animation
+The Bear	has_tags	animals
+A Walk in the Sun	starred_actors	Dana Andrews
+Stowaway	written_by	William M. Conselman
+Shutter	has_tags	horror
+The Secret Policeman's Other Ball	directed_by	Julien Temple
+Outrage	written_by	Kirby Dick
+Go	has_tags	sarah polley
+Comes a Bright Day	has_genre	Romance
+King Leopold's Ghost	release_year	2006
+Mars Attacks!	has_tags	michael j. fox
+Buck and the Preacher	directed_by	Sidney Poitier
+The Masseurs and a Woman	directed_by	Hiroshi Shimizu
+Back to the Future	has_tags	sf
+The Fifth Cord	release_year	1971
+King Kong	release_year	2005
+The Russia House	starred_actors	Michelle Pfeiffer
+A.C.O.D.	starred_actors	Catherine O'Hara
+The Hangover Part III	has_tags	zach galifianakis
+The Preacher's Wife	release_year	1996
+On a Clear Day You Can See Forever	written_by	Alan Jay Lerner
+Tarzan the Fearless	has_tags	edgar rice burroughs
+The Way Back	written_by	Peter Weir
+Jamie Marks Is Dead	has_genre	Drama
+Martha Marcy May Marlene	has_tags	thriller
+Hoodwinked Too! Hood vs. Evil	directed_by	Mike Disa
+Paradise, Hawaiian Style	has_genre	Musical
+The Truman Show	has_tags	drama
+Godzilla	has_tags	monster
+50 First Dates	has_genre	Comedy
+That Was Then... This Is Now	starred_actors	Emilio Estevez
+The Dreamers	has_tags	bernardo bertolucci
+Pee-wee's Big Adventure	directed_by	Tim Burton
+The Rewrite	has_genre	Comedy
+Legend of the Lost	has_tags	technirama
+Whity	release_year	1971
+Smoke	has_tags	harvey keitel
+The Loves of Carmen	starred_actors	Rita Hayworth
+That Championship Season	directed_by	Jason Miller
+The Joker Is Wild	has_genre	Drama
+Forget Paris	starred_actors	Joe Mantegna
+The Proposal	directed_by	Anne Fletcher
+The Pink Panther	starred_actors	Emily Mortimer
+The Inkwell	has_genre	Drama
+Thank Your Lucky Stars	has_genre	Musical
+The Great Yokai War	written_by	Takashi Miike
+Out of the Blue	directed_by	James Fox
+Heldorado	starred_actors	Roy Rogers
+Fearless	starred_actors	Rosie Perez
+Higher and Higher	starred_actors	Michèle Morgan
+Two for the Road	has_tags	audrey hepburn
+Bloody Pit of Horror	release_year	1965
+Along the Great Divide	starred_actors	Walter Brennan
+A Countess from Hong Kong	starred_actors	Sophia Loren
+The Signal	release_year	2014
+Superman	has_tags	comic book
+They All Laughed	release_year	1981
+Miami Blues	written_by	George Armitage
+Jaws	written_by	Peter Benchley
+A Family	in_language	Danish
+A Dangerous Method	starred_actors	Vincent Cassel
+Jules and Jim	written_by	François Truffaut
+Butterfly	written_by	Matt Cimber
+First Daughter	has_genre	Romance
+Lolita	directed_by	Adrian Lyne
+Dr. Giggles	starred_actors	Larry Drake
+In Their Skin	starred_actors	James D'Arcy
+Back Street	written_by	Eleanore Griffin
+Goyokin	directed_by	Hideo Gosha
+The Hound of the Baskervilles	has_genre	Crime
+The Stone Angel	written_by	Margaret Laurence
+The Da Vinci Code	has_tags	paris
+Q	release_year	1982
+The Wife	written_by	Tom Noonan
+Wings of Hope	release_year	2000
+The Bone Collector	has_genre	Crime
+Jimmy's Hall	release_year	2014
+And Starring Pancho Villa as Himself	release_year	2003
+Breakout	starred_actors	Robert Duvall
+Affliction	starred_actors	Nick Nolte
+Kung Fu Hustle	has_imdb_votes	famous
+Saved!	has_genre	Drama
+The Silence of the Lambs	written_by	Thomas Harris
+Nobody's Baby	has_genre	Comedy
+Wedding Crashers	has_tags	will ferrell
+Sounder	directed_by	Martin Ritt
+Barbarella	release_year	1968
+One Million B.C.	starred_actors	Carole Landis
+Unknown	release_year	2006
+Phantasm	has_tags	horror
+The Myth	starred_actors	Jackie Chan
+Crash	has_tags	los angeles
+The Man	has_tags	comedy
+The Thomas Crown Affair	has_tags	norman jewison
+Shane	has_tags	van heflin
+In the Beginning	written_by	Xavier Giannoli
+Wild Rovers	has_genre	Western
+Evolution	has_tags	seann william scott
+Men of Respect	starred_actors	Peter Boyle
+Stand by Me	has_tags	drama
+Dear White People	has_genre	Drama
+Candleshoe	starred_actors	Leo McKern
+Intimate Relations	starred_actors	Rupert Graves
+Ruggles of Red Gap	starred_actors	Charles Laughton
+The Debut	directed_by	Gene Cajayon
+Hedwig and the Angry Inch	has_tags	directorial debut
+Madame Satã	release_year	2002
+Kenny Begins	directed_by	Carl Åstrand
+King Corn	written_by	Ian Cheney
+Mr. Freedom	release_year	1969
+Shogun Assassin	written_by	Kazuo Koike
+Deadfall	starred_actors	Eric Bana
+Late Phases	starred_actors	Nick Damici
+The President's Lady	starred_actors	Fay Bainter
+Urban Cowboy	starred_actors	John Travolta
+What We Do in the Shadows	has_tags	jemaine clement
+Whores' Glory	in_language	Thai
+A Guide for the Married Man	starred_actors	Walter Matthau
+Good Will Hunting	has_tags	own
+Ghost Voyage	has_genre	Horror
+Sunshine	starred_actors	Troy Garity
+The Groove Tube	starred_actors	Chevy Chase
+After the Rehearsal	release_year	1984
+House of 9	release_year	2005
+A High Wind in Jamaica	directed_by	Alexander Mackendrick
+Hits	starred_actors	Wyatt Cenac
+The Specials	has_tags	super-hero
+Glory Road	has_genre	Drama
+Set It Off	written_by	Kate Lanier
+Mr. Jealousy	starred_actors	Eric Stoltz
+The Adventures of Robin Hood	has_genre	Adventure
+The House of the Devil	starred_actors	Tom Noonan
+Scary Movie 4	release_year	2006
+The Fairy	has_genre	Drama
+The Mouse That Roared	written_by	Leonard Wibberley
+A Bunch of Amateurs	release_year	2008
+Cimarron	starred_actors	Richard Dix
+Dancers	directed_by	Herbert Ross
+The Life of Emile Zola	directed_by	William Dieterle
+Getting Any?	has_tags	takeshi kitano
+Sunshine	has_tags	soundtrack
+When Trumpets Fade	has_genre	War
+Bereavement	release_year	2010
+Blood of Redemption	release_year	2013
+The Wizard of Baghdad	has_genre	Comedy
+The Executioner	starred_actors	George Peppard
+Homegrown	directed_by	Stephen Gyllenhaal
+Hollywood Shuffle	has_tags	robert townsend
+The Replacement Killers	starred_actors	Mira Sorvino
+The Mirror	directed_by	Jafar Panahi
+Notorious	has_tags	bd-r
+Baggage Claim	starred_actors	Paula Patton
+Prime Cut	release_year	1972
+Directed by John Ford	directed_by	Peter Bogdanovich
+Hannah and Her Sisters	has_tags	carrie fisher
+Ax 'Em	written_by	Michael Mfume
+Ride the Pink Horse	has_genre	Drama
+The Hunted	in_language	Japanese
+Funny About Love	directed_by	Leonard Nimoy
+Argo	has_tags	political thriller
+Toy Story 3	directed_by	Lee Unkrich
+Lorenzo's Oil	written_by	George Miller
+Watermarks	written_by	Yaron Zilberman
+Shrek	has_tags	parody
+Duplicity	directed_by	Tony Gilroy
+Of Time and the City	written_by	Terence Davies
+The Thin Man	has_tags	dashiell hammett
+This Property Is Condemned	has_genre	Drama
+Les Misérables	release_year	1998
+The Happy Time	release_year	1952
+Seeking Justice	has_tags	january jones
+The Muppet Movie	release_year	1979
+Lovers and Other Strangers	written_by	Joseph Bologna
+Shackleton's Antarctic Adventure	release_year	2001
+Elephant	has_genre	Drama
+Gomorrah	directed_by	Matteo Garrone
+The Liberation of L.B. Jones	written_by	Stirling Silliphant
+Point Blank	has_genre	Thriller
+Come to the Stable	written_by	Sally Benson
+Kabhi Khushi Kabhie Gham...	directed_by	Karan Johar
+Comic Book Confidential	has_genre	Documentary
+Uptown Girls	has_genre	Comedy
+Zoot Suit	has_tags	edward james olmos
+A Dangerous Method	starred_actors	Viggo Mortensen
+Higher Learning	has_genre	Drama
+Meet Dave	release_year	2008
+Jurassic Park III	has_tags	franchise
+The Devil's Rock	written_by	Paul Campion
+A Few Good Men	has_tags	lawyers
+Escape from L.A.	has_genre	Action
+Secondhand Lions	starred_actors	Robert Duvall
+No Way Out	starred_actors	Sidney Poitier
+Me Without You	written_by	Sandra Goldbacher
+Ace High	in_language	Italian
+Still Waiting...	written_by	Rob McKittrick
+Spaceballs	has_tags	rick moranis
+Dangerous Game	release_year	1993
+Innerspace	starred_actors	Kevin McCarthy
+Nancy Goes to Rio	has_genre	Musical
+New York, I Love You	has_tags	ethan hawke
+Beautiful Kate	written_by	Rachel Ward
+So Much So Fast	directed_by	Jeanne Jordan
+Mad Hot Ballroom	has_tags	new york city
+Wyoming Renegades	starred_actors	Martha Hyer
+Into the West	has_tags	ireland
+Planet of the Apes	has_tags	mark wahlberg
+Last Summer in the Hamptons	starred_actors	Viveca Lindfors
+Guys and Dolls	starred_actors	Marlon Brando
+Along Came a Spider	has_tags	lee tamahori
+Mother Lode	release_year	1982
+Me and You and Everyone We Know	starred_actors	John Hawkes
+Better Living Through Chemistry	has_tags	sam rockwell
+Iceman	starred_actors	John Lone
+Dominick and Eugene	starred_actors	Ray Liotta
+Robin and Marian	has_tags	richard harris
+Minnie and Moskowitz	starred_actors	Seymour Cassel
+Meet Me in St. Louis	written_by	Fred F. Finklehoffe
+Transformers	has_tags	effects
+Death at a Funeral	has_tags	comedy
+My Super Ex-Girlfriend	release_year	2006
+Lilith	starred_actors	Kim Hunter
+Game 6	starred_actors	Michael Keaton
+Death to Smoochy	starred_actors	Danny DeVito
+The Secret Six	release_year	1931
+Shaun of the Dead	has_genre	Comedy
+The Cider House Rules	directed_by	Lasse Hallström
+Sinbad and the Eye of the Tiger	starred_actors	Patrick Wayne
+Top Secret!	has_tags	musical
+Angels Fall	starred_actors	Heather Locklear
+The General Died at Dawn	starred_actors	Akim Tamiroff
+Scrooged	written_by	Charles Dickens
+King of California	starred_actors	Michael Douglas
+Mindhunters	written_by	Kevin Brodbin
+Across the Bridge	written_by	Graham Greene
+Life	starred_actors	Martin Lawrence
+The Thrill of It All	starred_actors	James Garner
+The Turning Point	starred_actors	Shirley MacLaine
+Runner Runner	has_tags	thriller
+Lloyd's of London	directed_by	Henry King
+Salò, or the 120 Days of Sodom	release_year	1975
+The Fall of the Roman Empire	starred_actors	Sophia Loren
+The Lifeguard	has_genre	Drama
+Fat Head	release_year	2009
+Air Force One	has_tags	harrison ford
+The Raid 2	has_genre	Action
+Purple Rain	starred_actors	Prince
+Atomised	starred_actors	Moritz Bleibtreu
+Beowulf	release_year	2007
+Show Boat	written_by	Oscar Hammerstein II
+Blind Dating	starred_actors	Chris Pine
+Waiting to Exhale	has_genre	Drama
+The Gambler	has_tags	karel reisz
+Funeral Parade of Roses	release_year	1969
+Wrestling Ernest Hemingway	written_by	Steve Conrad
+Loaded	directed_by	Alan Pao
+Bewitched	has_genre	Comedy
+Drop Dead Gorgeous	has_genre	Comedy
+The Kingdom	release_year	2007
+Coogan's Bluff	release_year	1968
+The Jacket	written_by	Massy Tadjedin
+Buried	has_tags	iraq
+The King of Kings	directed_by	Cecil B. DeMille
+The Prince of Egypt	has_tags	prince
+Kiss or Kill	release_year	1997
+Book of Love	release_year	2004
+A Song Is Born	release_year	1948
+Mrs. Miniver	has_tags	world war ii
+Thor	starred_actors	Anthony Hopkins
+Loulou	in_language	French
+The End of the Affair	has_genre	Drama
+Cat's Eye	has_genre	Horror
+The Castle of Cagliostro	has_tags	cast
+The Haunted House	has_tags	short
+It's the Great Pumpkin, Charlie Brown	directed_by	Bill Melendez
+Mystery Team	release_year	2009
+La Piscine	directed_by	Jacques Deray
+Husbands and Wives	directed_by	Woody Allen
+Love with the Proper Stranger	starred_actors	Herschel Bernardi
+The Tourist	starred_actors	Angelina Jolie
+More	starred_actors	Mimsy Farmer
+Mrs Henderson Presents	has_genre	Comedy
+Foreign Land	directed_by	Walter Salles
+High Society	has_tags	vistavision
+Prelude to a Kiss	written_by	Craig Lucas
+Titanic Town	starred_actors	Julie Walters
+Speak	release_year	2004
+Dead Man's Burden	starred_actors	Barlow Jacobs
+On a Clear Day	directed_by	Gaby Dellal
+The Station Agent	has_tags	thomas mccarthy
+One of Our Aircraft Is Missing	has_tags	bd-r
+The Other Boleyn Girl	has_genre	Drama
+Not Forgotten	directed_by	Dror Soref
+Cry, the Beloved Country	release_year	1951
+Wolf	release_year	1994
+American Pie 2	written_by	Adam Herz
+Murphy's Law	starred_actors	Kathleen Wilhoite
+The Infidel	release_year	2010
+Taxidermia	release_year	2006
+Jack and Jill	has_tags	adam sandler
+A Few Best Men	release_year	2011
+Games	starred_actors	Katharine Ross
+Lady in White	written_by	Frank LaLoggia
+Let Sleeping Corpses Lie	in_language	Spanish
+Bright Lights, Big City	written_by	Jay McInerney
+Force Majeure	has_tags	ruben Östlund
+Isle of the Dead	has_tags	boris karloff
+8 Heads in a Duffel Bag	directed_by	Tom Schulman
+Cthulhu	release_year	2007
+Walk the Line	has_imdb_rating	good
+The World, the Flesh and the Devil	written_by	Ranald MacDougall
+My Blue Heaven	starred_actors	Dan Dailey
+The Flight Before Christmas	has_genre	Animation
+Jewel Robbery	has_genre	Comedy
+Mysterious Mr. Moto	directed_by	Norman Foster
+Watching the Detectives	has_tags	cillian murphy
+Virginia City	starred_actors	Errol Flynn
+Unfaithfully Yours	starred_actors	Armand Assante
+Ride the High Country	has_tags	national film registry
+The Day of the Dolphin	release_year	1973
+Once Is Not Enough	starred_actors	David Janssen
+Sabrina	written_by	Billy Wilder
+A Bug's Life	has_tags	disney
+Casablanca Express	starred_actors	Jason Connery
+Harvey	release_year	1996
+Nancy Goes to Rio	starred_actors	Barry Sullivan
+Zoot Suit	directed_by	Luis Valdez
+From the Journals of Jean Seberg	release_year	1995
+Factotum	has_tags	matt dillon
+The Canterbury Tales	has_tags	pier paolo pasolini
+Jackie Brown	has_tags	samuel l. jackson
+It's a Wonderful Life	has_tags	james stewart
+Pulp Fiction	has_tags	original
+Pollyanna	starred_actors	Jane Wyman
+Bandidas	written_by	Luc Besson
+Blues Brothers 2000	has_tags	musical
+Cruel Intentions 2	has_genre	Drama
+Angel on My Shoulder	has_tags	archie mayo
+Meet the Fockers	release_year	2004
+Son of Paleface	has_tags	bob hope
+Don Juan DeMarco	has_tags	romance
+Pigskin Parade	starred_actors	Jack Haley
+Brave	directed_by	Steve Purcell
+Blackjack	directed_by	John Woo
+The Vampire Bat	has_tags	dwight frye
+The Damned United	has_tags	british
+Seven Men from Now	written_by	Burt Kennedy
+Dear Brigitte	has_tags	comedy
+Hush	starred_actors	Gwyneth Paltrow
+Reality Bites	has_tags	ben stiller
+52 Pick-Up	release_year	1986
+Starship Troopers	release_year	1997
+Conversations with Other Women	has_tags	helena bonham carter
+Saint Joan	release_year	1957
+The Adventure of Sherlock Holmes' Smarter Brother	starred_actors	Dom DeLuise
+The Thief Lord	release_year	2006
+A Fish Called Wanda	starred_actors	Michael Palin
+Cheaper by the Dozen	has_tags	bonnie hunt
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds	has_genre	Drama
+Take Shelter	has_tags	jeff nichols
+The Blue Bird	directed_by	Walter Lang
+Blazing Saddles	has_genre	Comedy
+The Eagle Has Landed	release_year	1976
+The New Legend of Shaolin	directed_by	Corey Yuen
+Tokyo Sonata	directed_by	Kiyoshi Kurosawa
+The Flame and the Arrow	directed_by	Jacques Tourneur
+Hoodlum	starred_actors	Tim Roth
+Perfect Blue	in_language	Japanese
+Dog Days	release_year	2001
+Midnight	release_year	1998
+A Dangerous Method	starred_actors	Keira Knightley
+Underground	written_by	Emir Kusturica
+Elite Squad	has_tags	police
+Knockin' on Heaven's Door	starred_actors	Moritz Bleibtreu
+The Ruins	has_tags	horror
+The Proposition	has_genre	Drama
+Savior	starred_actors	Nastassja Kinski
+The Ladies Man	starred_actors	Jerry Lewis
+The Kidnapping of the President	starred_actors	William Shatner
+I Still Know What You Did Last Summer	directed_by	Danny Cannon
+Madea's Big Happy Family	release_year	2011
+The Sea Hawk	written_by	Rafael Sabatini
+Genevieve	starred_actors	Dinah Sheridan
+The Original Kings of Comedy	written_by	D.L. Hughley
+The Phenix City Story	release_year	1955
+Trading Places	directed_by	John Landis
+The Green Pastures	has_genre	Drama
+The Pleasure Garden	release_year	1925
+Reasonable Doubt	directed_by	Peter Howitt
+The Fox and the Hound	directed_by	Richard Rich
+Minority Report	written_by	Philip K. Dick
+Twelve O'Clock High	written_by	Sy Bartlett
+The Frozen North	has_genre	Short
+Siam Sunset	release_year	1999
+Mayerling	release_year	1936
+Go for Sisters	release_year	2013
+Hot Fuzz	has_tags	cornetto trilogy
+Wilson	has_genre	Drama
+The Offence	written_by	John Hopkins
+God Bless America	has_genre	Comedy
+The Interpreter	release_year	2005
+Mala Noche	release_year	1986
+Last of the Red Hot Lovers	starred_actors	Paula Prentiss
+The Big Knife	starred_actors	Jack Palance
+Visions of Light	release_year	1992
+Solaris	has_genre	Drama
+The Amazing Spider-Man 2	has_tags	marc webb
+Ass Backwards	release_year	2013
+Marci X	release_year	2003
+I Bury the Living	release_year	1958
+Lady in the Water	has_tags	fantasy
+My First Mister	release_year	2001
+Bulletproof	release_year	1996
+Gods of the Plague	directed_by	Rainer Werner Fassbinder
+The Sign of the Cross	written_by	Waldemar Young
+Cookie's Fortune	has_tags	altman
+A Fantastic Fear of Everything	has_tags	comedy
+Black Like Me	directed_by	Carl Lerner
+David and Bathsheba	written_by	Philip Dunne
+Mr. Nice Guy	has_tags	jackie chan
+Today's Special	written_by	Aasif Mandvi
+Louis Cyr	starred_actors	Gilbert Sicotte
+Command Decision	written_by	William Wister Haines
+The Adversary	starred_actors	François Cluzet
+Slumdog Millionaire	has_tags	mumbai
+Quartet	has_tags	british comedy
+Slackers	has_genre	Comedy
+The Tingler	release_year	1959
+K-PAX	starred_actors	Mary McCormack
+A Month in the Country	starred_actors	Colin Firth
+Maurice	has_tags	bd-r
+The Cottage	release_year	2008
+Dressed to Kill	has_tags	sherlock holmes
+How the West Was Fun	release_year	1994
+The Skin I Live In	starred_actors	Elena Anaya
+Revolutionary Road	has_tags	leonardo dicaprio
+Kenny Begins	has_genre	Comedy
+Jeepers Creepers	has_tags	horror
+The Cry of the Owl	directed_by	Jamie Thraves
+What Ever Happened to Aunt Alice?	release_year	1969
+Next Stop, Greenwich Village	release_year	1976
+The Birdcage	has_tags	comedy
+Ghost Story	has_genre	Horror
+The Wizard of Oz	has_tags	own
+Divergent	has_tags	action
+We're the Millers	starred_actors	Will Poulter
+Friday	starred_actors	Chris Tucker
+The Perfect Circle	written_by	Abdulah Sidran
+Memento	has_tags	revenge
+One on One	directed_by	Lamont Johnson
+The Reincarnation of Peter Proud	starred_actors	Margot Kidder
+Jaws 3-D	release_year	1983
+Charlie Chan at the Opera	starred_actors	Boris Karloff
+Ghost World	has_tags	r
+The Four Feathers	release_year	1939
+Over the Top	has_tags	sylvester stallone
+Flodder	written_by	Dick Maas
+Cop	starred_actors	James Woods
+The Endless Summer	has_tags	south africa
+Waxworks	starred_actors	Conrad Veidt
+Wreckers	has_genre	Drama
+Days of Thunder	has_tags	race
+Condition Red	directed_by	Mika Kaurismäki
+Dédée d'Anvers	in_language	French
+Metroland	has_genre	Comedy
+Desperate Journey	starred_actors	Raymond Massey
+You've Got Mail	written_by	Delia Ephron
+Get Carter	starred_actors	Sylvester Stallone
+Pineapple Express	starred_actors	James Franco
+The Hills Have Eyes	has_tags	remake
+Midnight Movie	directed_by	Jack Messitt
+I Am Comic	release_year	2010
+The Awakening	has_tags	horror
+Trading Places	has_genre	Comedy
+Century	directed_by	Stephen Poliakoff
+They Shoot Horses, Don't They?	has_tags	jane fonda
+Breaker Morant	directed_by	Bruce Beresford
+Rockin' in the Rockies	has_genre	Music
+Foxcatcher	starred_actors	Mark Ruffalo
+A Simple Plan	starred_actors	Bill Paxton
+Date Movie	starred_actors	Eddie Griffin
+Misery	starred_actors	James Caan
+Adam Resurrected	starred_actors	Jeff Goldblum
+The Searchers	written_by	Alan Le May
+Shiner	directed_by	John Irvin
+The Train	release_year	1964
+Night Falls on Manhattan	directed_by	Sidney Lumet
+The Harry Hill Movie	has_genre	Musical
+My Old Lady	written_by	Israel Horovitz
+Erin Brockovich	directed_by	Steven Soderbergh
+Farewell My Concubine	has_tags	leslie cheung
+Chitty Chitty Bang Bang	written_by	Ken Hughes
+Judge Dredd	has_genre	Action
+Latter Days	release_year	2003
+The Other	starred_actors	Diana Muldaur
+Stromboli	written_by	Roberto Rossellini
+Night Train to Munich	directed_by	Carol Reed
+You've Got Mail	has_tags	remake
+Adrift	has_genre	Drama
+The Ballad of Cable Hogue	has_tags	jason robards
+The 39 Steps	has_tags	scotland
+The Great Mouse Detective	has_tags	detective
+Off the Black	written_by	James Ponsoldt
+The Innkeepers	has_genre	Horror
+120	release_year	2008
+I Am Number Four	release_year	2011
+One of Our Aircraft Is Missing	directed_by	Emeric Pressburger
+The Red Tent	starred_actors	Peter Finch
+8 Women	release_year	2002
+Lemony Snicket's A Series of Unfortunate Events	has_genre	Comedy
+While You Were Sleeping	has_tags	sandra bullock
+Barabbas	starred_actors	Katy Jurado
+Lost Christmas	written_by	John Hay
+25th Hour	written_by	David Benioff
+The Big Bird Cage	release_year	1972
+Animal Factory	has_genre	Crime
+Personal Property	has_genre	Comedy
+Jamesy Boy	starred_actors	Taissa Farmiga
+Chariots of the Gods	directed_by	Harald Reinl
+The Crazies	release_year	2010
+The Fifth Element	release_year	1997
+The Mexican	has_tags	road movie
+The Ghost Goes West	has_tags	rené clair
+Das Boot	directed_by	Wolfgang Petersen
+Hart's War	has_tags	r
+Maniac Cop 2	directed_by	William Lustig
+Executioners	has_genre	Action
+Camille	starred_actors	Elizabeth Allan
+Princess Mononoke	has_tags	drama
+Everybody Wants to Be Italian	release_year	2007
+This Is the End	has_tags	emma watson
+Bad Dreams	written_by	Andrew Fleming
+Butch Cassidy and the Sundance Kid	has_tags	bd-r
+In the Name of the Father	directed_by	Jim Sheridan
+Scent of a Woman	has_genre	Drama
+The Remains of the Day	starred_actors	Christopher Reeve
+Coming Home	has_genre	Drama
+Bedknobs and Broomsticks	has_tags	disney
+20,000 Leagues Under the Sea	starred_actors	Paul Lukas
+Nobody Lives Forever	written_by	W.R. Burnett
+Madame Rosa	written_by	Moshé Mizrahi
+Wild Hogs	has_tags	john travolta
+The Set-Up	directed_by	Robert Wise
+Take This Waltz	starred_actors	Sarah Silverman
+The Assassination of Richard Nixon	starred_actors	Don Cheadle
+It's a Wonderful World	has_genre	Mystery
+Forbidden	written_by	Jo Swerling
+Under the Cherry Moon	release_year	1986
+Cocoon	starred_actors	Brian Dennehy
+Quick Change	written_by	Jay Cronley
+The World Before Her	has_genre	Documentary
+The Break-Up	has_tags	peyton reed
+Logan's Run	has_tags	peter ustinov
+In Country	directed_by	Norman Jewison
+25th Hour	has_tags	drugs
+Knockaround Guys	has_tags	john malkovich
+Get Over It	has_tags	kirsten dunst
+Forbidden Planet	has_tags	science fiction
+The Pride of St. Louis	written_by	Guy Trosper
+Blade Runner	has_tags	philip k. dick
+Brothers	has_genre	Drama
+Skyfall	has_tags	daniel craig
+Little Miss Sunshine	has_tags	dance
+The Young Lions	starred_actors	Marlon Brando
+CSNY/Déjà Vu	has_genre	Documentary
+Open Hearts	directed_by	Susanne Bier
+The Wonders	directed_by	Alice Rohrwacher
+Covert Action	starred_actors	David Janssen
+Europa	has_tags	world war ii
+Going Hollywood	starred_actors	Bing Crosby
+The Story of Ruth	release_year	1960
+A Most Wanted Man	has_tags	anton corbijn
+Microcosmos	release_year	1996
+The Day the Earth Caught Fire	written_by	Val Guest
+You Only Live Once	has_genre	Drama
+Monument Ave.	starred_actors	Denis Leary
+Still Mine	directed_by	Michael McGowan
+Pandora's Box	written_by	Frank Wedekind
+Killshot	directed_by	John Madden
+Grand Theft Parsons	release_year	2003
+Last Dance	starred_actors	Rob Morrow
+Arlington Road	has_tags	r
+Premium Rush	has_tags	action
+Missing	has_tags	jack lemmon
+Seizure	has_genre	Horror
+Fiddler on the Roof	has_genre	Musical
+The Devil's Backbone	directed_by	Guillermo del Toro
+Class	has_genre	Drama
+I Wake Up Screaming	has_genre	Drama
+West Beirut	release_year	1998
+The Sleeping Dictionary	directed_by	Guy Jenkin
+Summertime	has_tags	bd-r
+Playing for Keeps	release_year	2012
+Shadows	written_by	John Cassavetes
+The Marine	has_genre	Action
+After Office Hours	directed_by	Robert Z. Leonard
+Papillon	directed_by	Franklin J. Schaffner
+The Dark Knight Rises	has_tags	batman
+Oz the Great and Powerful	starred_actors	Rachel Weisz
+Blue Velvet	has_tags	surreal
+'R Xmas	directed_by	Abel Ferrara
+Norwegian Wood	directed_by	Tran Anh Hung
+Dead Man's Shoes	written_by	Shane Meadows
+Apollo 18	in_language	English
+Vampire's Kiss	starred_actors	Elizabeth Ashley
+Christmas Eve	has_genre	Comedy
+Happy New Year	directed_by	Claude Lelouch
+The Conclave	release_year	2006
+The Most Hated Family in America	written_by	Louis Theroux
+Kiss Me Goodbye	starred_actors	Sally Field
+The Unsinkable Molly Brown	has_genre	Musical
+Made for Each Other	starred_actors	Carole Lombard
+Can't Hardly Wait	has_tags	jennifer love hewitt
+Empire of Silver	release_year	2009
+A Year Ago in Winter	release_year	2008
+Trust	written_by	Robert Festinger
+Trapped in Paradise	has_tags	george gallo
+Human Nature	written_by	Charlie Kaufman
+Casablanca	has_tags	stage
+Agent Vinod	starred_actors	Kareena Kapoor
+Naked	directed_by	Mike Leigh
+Edvard Munch	directed_by	Peter Watkins
+Pitch Black	starred_actors	Radha Mitchell
+Georg	has_tags	estonia
+Path to War	has_tags	john frankenheimer
+His Kind of Woman	starred_actors	Jane Russell
+Man on Fire	starred_actors	Denzel Washington
+The Sum of All Fears	has_tags	jerry goldsmith
+The Scar	directed_by	Krzysztof Kieslowski
+Demoted	starred_actors	David Cross
+Look Who's Talking	directed_by	Amy Heckerling
+Only the Strong	starred_actors	Mark Dacascos
+Highlander	has_tags	fantasy
+The Bay	written_by	Barry Levinson
+What's Up, Tiger Lily?	release_year	1966
+Moms' Night Out	directed_by	Jon Erwin
+The Green Hornet	has_tags	comic book
+Open Windows	written_by	Nacho Vigalondo
+That Forsyte Woman	starred_actors	Errol Flynn
+The Count of Monte Cristo	directed_by	Rowland V. Lee
+Jason X	starred_actors	Kane Hodder
+The Bonfire of the Vanities	release_year	1990
+You and Me	starred_actors	George Raft
+The Quiet American	has_tags	graham greene
+The Escapist	release_year	2008
+In Bruges	has_tags	brendan gleeson
+The Den	release_year	2013
+The Incredible Shrinking Woman	starred_actors	Ned Beatty
+Uptown Girls	starred_actors	Donald Faison
+The Phantom Carriage	directed_by	Victor Sjöström
+The Candy Snatchers	release_year	1973
+Lincoln	has_tags	drama
+Home Alone	starred_actors	John Heard
+Beautiful Creatures	has_genre	Crime
+The White Ribbon	has_tags	cinematography
+The Homecoming	written_by	Harold Pinter
+Hatari!	has_tags	howard hawks
+Flightplan	has_genre	Mystery
+Munich	has_tags	spielberg
+Dr. Jack	release_year	1922
+Turn of Faith	directed_by	Charles Jarrott
+The Trial of the Incredible Hulk	written_by	Gerald Di Pego
+Kounterfeit	written_by	David Chase
+My Brilliant Career	release_year	1979
+Song of the Sea	release_year	2014
+Roman Holiday	has_tags	romantic comedy
+Stuart Little	starred_actors	Hugh Laurie
+Farewell	directed_by	Christian Carion
+The Secrets	release_year	2007
+Wildflowers	starred_actors	Clea DuVall
+Le Cercle Rouge	has_genre	Crime
+The Wraith	directed_by	Mike Marvin
+The Extra Man	directed_by	Robert Pulcini
+Wind Chill	release_year	2007
+The U.S. vs. John Lennon	has_genre	Documentary
+The Gaucho	has_genre	Adventure
+Vampyr	in_language	German
+Amateur	starred_actors	Martin Donovan
+Pee-wee's Big Adventure	starred_actors	Paul Reubens
+Gertrud	in_language	Danish
+Black Snake Moan	written_by	Craig Brewer
+Rosenstrasse	directed_by	Margarethe von Trotta
+Floating Clouds	has_genre	Drama
+The Notebook	release_year	2013
+$	in_language	German
+Peter's Friends	directed_by	Kenneth Branagh
+Blind Date	starred_actors	Kim Basinger
+Descent	release_year	2007
+Avalanche	release_year	1978
+The Reckoning	directed_by	John V. Soto
+Vera Cruz	has_tags	robert aldrich
+First Family	release_year	1980
+Private Confessions	release_year	1996
+No Such Thing	has_tags	hal hartley
+Blackout	has_genre	Horror
+Period of Adjustment	written_by	Tennessee Williams
+The Disappeared	starred_actors	Tom Felton
+The Perfect Man	directed_by	Mark Rosman
+The Hunt for Red October	directed_by	John McTiernan
+Red Dragon	release_year	2002
+A Cool, Dry Place	has_genre	Drama
+Avalon	has_tags	virtual reality
+Goldfinger	has_tags	james bond
+In the Valley of Elah	starred_actors	Tommy Lee Jones
+Anastasia	written_by	Guy Bolton
+The Spanish Earth	directed_by	Joris Ivens
+Duck Soup	has_genre	Comedy
+First Love	release_year	2004
+A Royal Affair	has_tags	mads mikkelsen
+Billy's Hollywood Screen Kiss	release_year	1998
+Alice	release_year	1990
+The Pit and the Pendulum	written_by	Edgar Allan Poe
+Uncle Boonmee Who Can Recall His Past Lives	directed_by	Apichatpong Weerasethakul
+Monkey Business	has_tags	comedy
+I, Robot	has_tags	action
+Dorian Gray	has_tags	ben barnes
+Anna Karenina	starred_actors	Greta Garbo
+Brooklyn	starred_actors	Domhnall Gleeson
+Towelhead	directed_by	Alan Ball
+Below	starred_actors	Matthew Davis
+The Ledge	has_genre	Thriller
+The Battle of the Sexes	has_genre	Comedy
+Sleep with Me	written_by	Rory Kelly
+Sherlock Holmes and the Secret Weapon	starred_actors	Basil Rathbone
+The Nutcracker Prince	starred_actors	Megan Follows
+The Suicide Shop	written_by	Patrice Leconte
+High Fidelity	has_genre	Drama
+Black Knight	starred_actors	Marsha Thomason
+Stealing Beauty	has_tags	bernardo bertolucci
+The Guns of Navarone	starred_actors	Anthony Quinn
+Criss Cross	written_by	Don Tracy
+Get Carter	directed_by	Stephen Kay
+Accepted	directed_by	Steve Pink
+Captivity	starred_actors	Elisha Cuthbert
+Playtime	has_genre	Comedy
+Liberty Heights	has_tags	barry levinson
+Indiscreet	starred_actors	Cary Grant
+Clerks II	has_tags	r
+Are You Here	written_by	Matthew Weiner
+The Greatest	has_genre	Drama
+The Buccaneer	written_by	Harold Lamb
+Gentleman Jim	starred_actors	Alan Hale
+Beautiful People	release_year	1999
+Sweet November	has_tags	charlize theron
+Barnyard	release_year	2006
+The Country Teacher	in_language	Czech
+Strange Invaders	release_year	1983
+Portrait in Black	has_genre	Thriller
+Affinity	written_by	Andrew Davies
+No Escape	starred_actors	Lance Henriksen
+Blue Velvet	has_tags	kyle maclachlan
+Nuns on the Run	has_tags	jonathan lynn
+Novocaine	directed_by	David Atkins
+The Rich Man's Wife	has_genre	Thriller
+The Change-Up	written_by	Jon Lucas
+Broken English	release_year	1996
+Bus 174	has_tags	documentary
+The French Connection	written_by	Ernest Tidyman
+The Scent of Green Papaya	has_tags	vietnam
+Little Birds	directed_by	Elgin James
+The Peacemaker	release_year	1997
+End of Days	starred_actors	Robin Tunney
+The Three Musketeers	has_tags	alexandre dumas
+Take Me Home	starred_actors	Victor Garber
+The Garden of Words	in_language	Japanese
+Bloodsuckers	release_year	2005
+Camouflage	release_year	1977
+The Last Kiss	has_genre	Drama
+Birdman of Alcatraz	has_tags	birds
+The Death of the Incredible Hulk	starred_actors	Lou Ferrigno
+A Christmas Carol	has_genre	Drama
+Poor Boy's Game	starred_actors	Danny Glover
+Exodus	has_tags	otto preminger
+Cromwell	has_genre	Drama
+The Great Buck Howard	directed_by	Sean McGinly
+The In Crowd	directed_by	Mary Lambert
+Cyrano de Bergerac	written_by	Edmond Rostand
+True Blue	has_genre	Sport
+Deathtrap	directed_by	Sidney Lumet
+Machibuse	has_genre	Drama
+Foreign Correspondent	written_by	Robert Benchley
+When Dinosaurs Ruled the Earth	directed_by	Val Guest
+In the Line of Fire	has_tags	john malkovich
+Secretariat	directed_by	Randall Wallace
+Spinning Boris	directed_by	Roger Spottiswoode
+Pontiac Moon	starred_actors	Ted Danson
+Swiss Family Robinson	directed_by	Ken Annakin
+Gray Lady Down	starred_actors	Ned Beatty
+Silver Linings Playbook	written_by	David O. Russell
+Blast	has_genre	Comedy
+Working Girl	starred_actors	Harrison Ford
+Fading Gigolo	starred_actors	John Turturro
+10 Years	has_genre	Drama
+Searching for Debra Winger	release_year	2002
+Aakrosh	directed_by	Priyadarshan
+The Bad News Bears	directed_by	Michael Ritchie
+Food, Inc.	has_genre	Documentary
+Titus	has_tags	julie taymor
+L'Enfer	has_tags	claude chabrol
+The Proprietor	release_year	1996
+Old Dogs	directed_by	Walt Becker
+Ilo Ilo	release_year	2013
+Thanks for Sharing	starred_actors	Tim Robbins
+My Cousin Vinny	starred_actors	Marisa Tomei
+Taxidermia	has_genre	Drama
+Gypsy 83	directed_by	Todd Stephens
+Open Hearts	starred_actors	Paprika Steen
+Unfair Competition	directed_by	Ettore Scola
+Captains Courageous	has_tags	rudyard kipling
+Attack on the Iron Coast	starred_actors	Lloyd Bridges
+All the Brothers Were Valiant	has_genre	Drama
+Bullitt	has_genre	Action
+Men at Work	starred_actors	Leslie Hope
+Good Evening, Mr. Wallenberg	in_language	Hungarian
+Foxcatcher	has_tags	bennett miller
+Ajantrik	in_language	Bengali
+Next	has_tags	action
+Dark Water	has_tags	john c. reilly
+I'm Still Here	starred_actors	Joaquin Phoenix
+Letters from Iwo Jima	has_tags	war
+Solo	release_year	1996
+The Big Store	has_tags	bd-r
+The Man of My Life	release_year	2006
+Mighty Joe Young	starred_actors	Ben Johnson
+The Last of Mrs. Cheyney	starred_actors	Joan Crawford
+The Baytown Outlaws	written_by	Barry Battles
+Grease	has_tags	musical
+Oliver Twist	starred_actors	Tim Curry
+Downtown	has_genre	Comedy
+The Goodbye Girl	starred_actors	Jeff Daniels
+How to Lose a Guy in 10 Days	has_genre	Comedy
+I Am Love	written_by	Luca Guadagnino
+The Young Savages	has_genre	Drama
+These Amazing Shadows	directed_by	Paul Mariano
+Hero	has_tags	jet li
+Lake City	written_by	Hunter Hill
+Fright to the Finish	starred_actors	Jack Mercer
+Mad About Mambo	written_by	John Forte
+The Brothers Rico	written_by	Georges Simenon
+Northern Lights	starred_actors	Eddie Cibrian
+The Visitors	has_genre	Drama
+Bedlam	starred_actors	Boris Karloff
+The Myth of the American Sleepover	directed_by	David Robert Mitchell
+Babes on Broadway	directed_by	Busby Berkeley
+The Last Broadcast	directed_by	Stefan Avalos
+Body of Lies	starred_actors	Mark Strong
+The Evil Dead	has_tags	sam raimi
+Private Lives	has_tags	sidney franklin
+American Outlaws	starred_actors	Ali Larter
+Gloria	starred_actors	Jeremy Northam
+The Food of the Gods	starred_actors	Pamela Franklin
+Faith School Menace?	starred_actors	Richard Dawkins
+The Last American Hero	directed_by	Lamont Johnson
+The Return of Don Camillo	release_year	1953
+Luster	written_by	Everett Lewis
+The Dark Corner	release_year	1946
+Man Trouble	starred_actors	Harry Dean Stanton
+Them!	starred_actors	James Whitmore
+The Unknown	has_tags	joan crawford
+Killer Klowns from Outer Space	has_tags	aliens
+Subway	written_by	Luc Besson
+Creepshow	directed_by	George A. Romero
+The Projectionist	directed_by	Harry Hurwitz
+Stone of Destiny	starred_actors	Kate Mara
+Rashomon	has_tags	toshiro mifune
+Surviving the Game	release_year	1994
+Cop Land	starred_actors	Ray Liotta
+Days of Glory	has_tags	war
+Dude, Where's My Car?	has_tags	humor
+From Beijing with Love	has_genre	Action
+The Outsiders	starred_actors	Patrick Swayze
+Underworld	starred_actors	Kate Beckinsale
+The Westerner	has_tags	william wyler
+The Fall of the Roman Empire	starred_actors	Alec Guinness
+The Guns of Fort Petticoat	has_genre	Western
+Camille Claudel	in_language	French
+Martha Marcy May Marlene	has_genre	Thriller
+Next of Kin	written_by	Atom Egoyan
+The Silver Brumby	starred_actors	Russell Crowe
+Our Town	has_genre	Drama
+Trois	has_genre	Thriller
+Underdog	starred_actors	Patrick Warburton
+Last Tango in Paris	has_tags	sex
+Crime and Punishment	directed_by	Aki Kaurismäki
+Nim's Island	starred_actors	Gerard Butler
+Night of the Living Dead	has_tags	tom savini
+My Sister's Keeper	has_tags	nick cassavetes
+Catch Me If You Can	has_tags	amy adams
+The Burglar	starred_actors	Jayne Mansfield
+Better Things	directed_by	Duane Hopkins
+Avatar	has_tags	war
+Kelly's Heroes	release_year	1970
+South of the Border	written_by	Tariq Ali
+Never a Dull Moment	release_year	1968
+The Legend of Suram Fortress	in_language	Georgian
+National Lampoon's Vacation	has_genre	Comedy
+Macbeth	in_language	English
+A Beautiful Mind	has_tags	paul bettany
+Batman Returns	has_tags	michelle pfeiffer
+The Divide	written_by	Karl Mueller
+Guarding Tess	directed_by	Hugh Wilson
+The Fugitive Kind	release_year	1960
+Serpico	written_by	Waldo Salt
+The Bridge on the River Kwai	has_tags	best picture
+The Food of the Gods	starred_actors	Ralph Meeker
+RKO 281	release_year	1999
+Clean	has_tags	olivier assayas
+Into the Blue	has_tags	jessica alba
+Dorian Gray	written_by	Oscar Wilde
+Trial on the Road	written_by	Yuri German
+The Southerner	has_tags	jean renoir
+Last Passenger	starred_actors	Dougray Scott
+Think Like a Man Too	written_by	David A. Newman
+Detective Story	has_tags	william wyler
+Tootsie	release_year	1982
+The Notebook	has_genre	Drama
+Contagion	has_tags	ensemble cast
+Farewell My Concubine	has_tags	opera
+Home for the Holidays	starred_actors	Anne Bancroft
+Fist of the North Star	in_language	English
+Speed Racer	has_genre	Action
+Drona	release_year	2008
+Duma	has_genre	Adventure
+The Temp	starred_actors	Lara Flynn Boyle
+Days of Glory	has_genre	War
+Reds	starred_actors	Jerzy Kosinski
+Return to Oz	written_by	Walter Murch
+An American Haunting	starred_actors	Donald Sutherland
+The Gathering	directed_by	Brian Gilbert
+Casablanca	has_tags	humphrey bogart
+Angel's Egg	has_genre	Animation
+The Net	starred_actors	Dennis Miller
+Green Lantern	has_tags	dc comics
+Mad Love	directed_by	Karl Freund
+The Lives of Others	starred_actors	Sebastian Koch
+The Dresser	written_by	Ronald Harwood
+The Shopworn Angel	starred_actors	Margaret Sullavan
+White Lightning	release_year	1973
+Delivery Man	written_by	Ken Scott
+Bilitis	release_year	1977
+I Vitelloni	has_genre	Drama
+Airbag	starred_actors	Fernando Guillén Cuervo
+Run of the Arrow	starred_actors	Ralph Meeker
+Body Heat	directed_by	Lawrence Kasdan
+Ladder 49	starred_actors	Joaquin Phoenix
+Black Water	has_genre	Horror
+The Left Handed Gun	release_year	1958
+A Diary for Timothy	starred_actors	John Gielgud
+Tea with Mussolini	written_by	Franco Zeffirelli
+Blaze	directed_by	Ron Shelton
+Bridge to Terabithia	has_tags	zooey deschanel
+Intruders	directed_by	Juan Carlos Fresnadillo
+Midnight Cowboy	has_tags	dustin hoffman
+Air America	starred_actors	Robert Downey Jr.
+Judith of Bethulia	starred_actors	Henry B. Walthall
+I Live My Life	starred_actors	Joan Crawford
+The Edge of Love	has_tags	keira knightley
+Road to Perdition	has_tags	daniel craig
+I Belong	in_language	Norwegian
+Dodge City	starred_actors	Olivia de Havilland
+Victor Victoria	has_genre	Musical
+Machete Kills	starred_actors	Mel Gibson
+Weekend	has_tags	british
+Yossi	has_tags	eytan fox
+The Jerky Boys	has_genre	Comedy
+The Tempest	directed_by	Julie Taymor
+Homicidal	directed_by	William Castle
+Time Bandits	has_tags	ralph richardson
+Hard Ticket to Hawaii	has_genre	Action
+Hum Tumhare Hain Sanam	in_language	Hindi
+Blackout	directed_by	Jerry LaMothe
+Houdini	directed_by	George Marshall
+The Princess Bride	has_genre	Adventure
+The Fall of the House of Usher	has_genre	Horror
+The Crimson Rivers	written_by	Mathieu Kassovitz
+The Buccaneer	has_tags	vistavision
+Howard the Duck	has_tags	funny
+P.S. I Love You	written_by	Cecelia Ahern
+Dark City	has_tags	william dieterle
+Angel Baby	starred_actors	John Lynch
+The Desperate Hours	written_by	Joseph Hayes
+The Last Metro	release_year	1980
+Easy Rider	has_tags	road movie
+L.A. Confidential	has_tags	danny devito
+Possession	in_language	German
+Nurse Betty	starred_actors	Renée Zellweger
+Captives	starred_actors	Tim Roth
+Sleepy Hollow	release_year	1999
+A Love Song for Bobby Long	has_genre	Drama
+Middle Men	starred_actors	Luke Wilson
+Big	starred_actors	Tom Hanks
+Murder, My Sweet	release_year	1944
+Before I Go to Sleep	starred_actors	Mark Strong
+Mumford	directed_by	Lawrence Kasdan
+Possessed	has_tags	exorcism
+Will Success Spoil Rock Hunter?	starred_actors	Tony Randall
+Turtles Can Fly	release_year	2004
+Bird People	in_language	French
+The Haunting	has_tags	paranormal
+The Water Horse	has_genre	Fantasy
+Frequency	starred_actors	Jim Caviezel
+The Witches	has_tags	nicolas roeg
+Wonder Boys	has_genre	Comedy
+Bang Bang You're Dead	has_tags	ben foster
+Dead Man on Campus	release_year	1998
+Buffalo Soldiers	written_by	Gregor Jordan
+A Prayer for the Dying	has_tags	liam neeson
+September	starred_actors	Dianne Wiest
+Three Kings	starred_actors	Mark Wahlberg
+Hart's War	has_tags	prison
+Final Cut	release_year	1998
+Anna Karenina	starred_actors	Alfred Molina
+My Father's Glory	has_tags	french
+That's Life!	written_by	Blake Edwards
+Sister	release_year	2012
+The Curious Case of Benjamin Button	written_by	Robin Swicord
+Made in America	has_tags	whoopi goldberg
+Where's Poppa?	written_by	Robert Klane
+Blue City	written_by	Ross Macdonald
+Black Ice	directed_by	Petri Kotwica
+Jumanji	has_genre	Adventure
+The Passion of Anna	directed_by	Ingmar Bergman
+Kind Hearts and Coronets	starred_actors	Valerie Hobson
+Spawn	has_tags	comic book
+Abbott and Costello Meet the Mummy	has_tags	mummy
+Something Borrowed	has_genre	Comedy
+Do the Right Thing	has_tags	spike lee
+Midnight Express	has_tags	bd-r
+The Blue Max	starred_actors	George Peppard
+Death in the Garden	release_year	1956
+A Wedding	starred_actors	Carol Burnett
+Pathfinder	written_by	Nils Gaup
+Private Fears in Public Places	directed_by	Alain Resnais
+Losin' It	starred_actors	Jackie Earle Haley
+The War Lord	directed_by	Franklin J. Schaffner
+A Lady Takes a Chance	starred_actors	Phil Silvers
+The Queen	has_tags	stephen frears
+Exam	written_by	Stuart Hazeldine
+The Major and the Minor	written_by	Charles Brackett
+The Stepfather	has_tags	plot
+Theatre of Blood	release_year	1973
+Shattered Glass	has_tags	peter sarsgaard
+Sagebrush Trail	starred_actors	Yakima Canutt
+Phone Booth	directed_by	Joel Schumacher
+Saw VI	starred_actors	Costas Mandylor
+Ariel	release_year	1988
+The Best of Me	release_year	2014
+The Face Behind the Mask	has_genre	Drama
+Dracula Has Risen from the Grave	starred_actors	Veronica Carlson
+The Lair of the White Worm	written_by	Ken Russell
+Pork Chop Hill	starred_actors	Harry Guardino
+Love Happy	directed_by	David Miller
+The Overbrook Brothers	directed_by	John E. Bryant
+The Black Watch	written_by	James Kevin McGuinness
+Assault on a Queen	starred_actors	Frank Sinatra
+Lookin' to Get Out	starred_actors	Jon Voight
+How I Live Now	written_by	Tony Grisoni
+Bringing Up Baby	starred_actors	Katharine Hepburn
+I Hate Valentine's Day	release_year	2009
+Ghost	starred_actors	Tony Goldwyn
+Miracle	has_tags	gavin o'connor
+Deck the Halls	starred_actors	Kristin Davis
+Unforgiven	has_tags	gene hackman
+The Iron Lady	starred_actors	Meryl Streep
+Dick Tracy	directed_by	Warren Beatty
+The Witches	has_tags	witches
+Good-bye, My Lady	has_tags	william a. wellman
+Far and Away	starred_actors	Tom Cruise
+The Proud Valley	starred_actors	Paul Robeson
+Tinker Tailor Soldier Spy	starred_actors	Mark Strong
+The Last Shot	release_year	2004
+Hud	has_tags	paul newman
+Motel Hell	release_year	1980
+Strangers When We Meet	starred_actors	Barbara Rush
+The Old Dark House	starred_actors	Charles Laughton
+Monte Walsh	starred_actors	Keith Carradine
+The Gnome-Mobile	starred_actors	Walter Brennan
+A Prairie Home Companion	has_genre	Music
+The Witches of Eastwick	has_genre	Fantasy
+Trancers II	starred_actors	Tim Thomerson
+Ernest Rides Again	release_year	1993
+Blackmailed	starred_actors	Dirk Bogarde
+New York, I Love You	has_tags	shia labeouf
+Serial Mom	directed_by	John Waters
+Kolberg	release_year	1945
+Flashback	has_genre	Action
+Footloose	starred_actors	Andie MacDowell
+Once Upon a Time in China and America	starred_actors	Jet Li
+Die Hard	written_by	Jeb Stuart
+In America	in_language	Irish
+Breaking Up	starred_actors	Russell Crowe
+The People vs. Larry Flynt	release_year	1996
+After Alice	has_genre	Mystery
+Lethal Weapon 2	release_year	1989
+Andy Hardy's Blonde Trouble	has_genre	Comedy
+American Splendor	has_tags	paul giamatti
+Private Parts	directed_by	Paul Bartel
+Lonely Street	starred_actors	Jay Mohr
+I Am a Sex Addict	has_tags	addiction
+Trade	starred_actors	Kevin Kline
+The Chase	starred_actors	Charlie Sheen
+Anchors Aweigh	release_year	1945
+Princess Mononoke	has_tags	studio ghibli
+Come and See	has_tags	death
+Battle for Haditha	directed_by	Nick Broomfield
+Deep Cover	has_genre	Thriller
+Butch Cassidy and the Sundance Kid	starred_actors	Paul Newman
+Answers to Nothing	starred_actors	Elizabeth Mitchell
+Diving In	starred_actors	Matt Adler
+You Are the Apple of My Eye	has_genre	Romance
+Sky Captain and the World of Tomorrow	directed_by	Kerry Conran
+Seven Chances	has_tags	buster keaton
+Around the World in 80 Days	starred_actors	Steve Coogan
+If Winter Comes	in_language	English
+Privilege	written_by	Peter Watkins
+Tex	release_year	1982
+The Haunted World of El Superbeasto	release_year	2009
+The Smurfs	starred_actors	Sofía Vergara
+Story of Women	has_tags	true story
+Men in Black 3	has_genre	Action
+Creature	release_year	2011
+Madadayo	written_by	Akira Kurosawa
+Nowhere to Run	has_genre	Action
+Working Girl	has_genre	Comedy
+Berlin Calling	release_year	2008
+Mission London	has_genre	Comedy
+The Barrens	starred_actors	Mia Kirshner
+Not with My Wife, You Don't!	starred_actors	Tony Curtis
+Changing Lanes	has_tags	roger michell
+Rurouni Kenshin	in_language	Japanese
+Steep	has_tags	documentary
+The Eagle Has Landed	has_tags	john sturges
+Even Cowgirls Get the Blues	has_genre	Drama
+The Beautiful Country	release_year	2004
+Concrete Night	written_by	Pirkko Saisio
+The Dark Crystal	has_tags	frank oz
+Miracle on 34th Street	has_tags	maureen o'hara
+Invasion U.S.A.	has_tags	chuck norris
+Marvellous	has_genre	Drama
+Forbidden Fruit	has_genre	Drama
+The Da Vinci Code	starred_actors	Ian McKellen
+Sleeping with the Enemy	has_tags	iowa
+Rhinestone	written_by	Sylvester Stallone
+Apartment 1303	directed_by	Ataru Oikawa
+Underclassman	starred_actors	Nick Cannon
+The Fault in Our Stars	has_tags	shailene woodley
+Gettysburg	starred_actors	Tom Berenger
+Crime and Punishment	in_language	Finnish
+Josh and S.A.M.	has_genre	Drama
+Chaos	has_genre	Thriller
+Underworld	has_tags	kate beckinsale
+BloodRayne	directed_by	Uwe Boll
+Four Eyed Monsters	written_by	Susan Buice
+A Letter to Momo	has_genre	Animation
+Immortal Beloved	starred_actors	Jeroen Krabbé
+I Love You Phillip Morris	has_tags	prison
+The Bounty Hunter	has_tags	jennifer aniston
+Gigi	has_genre	Comedy
+The Governess	directed_by	Sandra Goldbacher
+Genocide	has_genre	War
+Prince of the City	has_tags	sidney lumet
+Flickering Lights	starred_actors	Ulrich Thomsen
+Forgetting Sarah Marshall	starred_actors	Jason Segel
+Zero Tolerance	in_language	Swedish
+Dogma	has_tags	jason mewes
+Kabhi Khushi Kabhie Gham...	has_genre	Drama
+These Three	has_tags	william wyler
+Iron Eagle II	has_genre	Action
+Les Mistons	directed_by	François Truffaut
+The Widow from Chicago	starred_actors	Neil Hamilton
+It Happened Here	has_genre	War
+Born on the Fourth of July	written_by	Oliver Stone
+Samurai Reincarnation	directed_by	Kinji Fukasaku
+Wait Until Dark	written_by	Frederick Knott
+Horton Hears a Who!	has_tags	dr. seuss
+King Kong Escapes	release_year	1967
+Maytime	starred_actors	Jeanette MacDonald
+Violent Cop	directed_by	Takeshi Kitano
+Analyze This	has_tags	psychiatrist
+Nancy Drew	release_year	2007
+Jerry Maguire	has_genre	Drama
+Forced Vengeance	starred_actors	Chuck Norris
+The Road to Wellville	written_by	Alan Parker
+Last Year at Marienbad	in_language	French
+The Prince of Pennsylvania	starred_actors	Bonnie Bedelia
+Driving Miss Daisy	starred_actors	Jessica Tandy
+American Buffalo	has_tags	david mamet
+Bowfinger	directed_by	Frank Oz
+Baby Boom	release_year	1987
+Screwed	directed_by	Scott Alexander
+Rage	starred_actors	George C. Scott
+Throw Momma from the Train	directed_by	Danny DeVito
+The Sea Gull	written_by	Anton Chekhov
+Rage	has_genre	Crime
+Hollow Man	directed_by	Paul Verhoeven
+The Food of the Gods	has_tags	ida lupino
+An American Carol	has_tags	david zucker
+Who Killed Bambi?	in_language	French
+Chungking Express	starred_actors	Brigitte Lin
+A Streetcar Named Desire	has_tags	bd-r
+Duck Soup	release_year	1933
+Rat Race	has_tags	rowan atkinson
+California Conquest	starred_actors	Teresa Wright
+La Marseillaise	written_by	Jean Renoir
+The Ladies Man	directed_by	Reginald Hudlin
+Short Circuit 2	starred_actors	Michael McKean
+Chéri	starred_actors	Michelle Pfeiffer
+Riders of Destiny	starred_actors	John Wayne
+Time After Time	written_by	Nicholas Meyer
+On Dangerous Ground	directed_by	Nicholas Ray
+Battle Royale	has_tags	kinji fukasaku
+The Muppets	has_tags	jason segel
+Voyage to Cythera	directed_by	Theodoros Angelopoulos
+Little Fockers	has_genre	Comedy
+Flamingo Road	starred_actors	Zachary Scott
+The Tic Code	written_by	Polly Draper
+Raw Deal	release_year	1948
+Half Nelson	has_tags	brooklyn
+The Full Monty	has_genre	Music
+Dingo	has_tags	paris
+Love Object	release_year	2003
+The Man from Elysian Fields	directed_by	George Hickenlooper
+Her	has_tags	scarlett johansson
+Salto	has_genre	Drama
+The Ring	has_genre	Horror
+Son of the Mask	release_year	2005
+Death in Brunswick	has_genre	Comedy
+A Prairie Home Companion	has_tags	altman
+Paprika	has_tags	dreams
+Kopps	starred_actors	Fares Fares
+The Big Sleep	has_tags	film noir
+Fast Times at Ridgemont High	starred_actors	Sean Penn
+Playing for Keeps	starred_actors	Gerard Butler
+Blood Relatives	written_by	Claude Chabrol
+The Comedy of Terrors	has_tags	vincent price
+Turtle Diary	starred_actors	Glenda Jackson
+Poetic Justice	written_by	John Singleton
+Orfeu	release_year	1999
+Hamlet 2	starred_actors	Catherine Keener
+Police, Adjective	in_language	Romanian
+Twins	has_genre	Comedy
+The Woman in Black	has_tags	horror
+The Messenger	starred_actors	Ben Foster
+Something to Talk About	written_by	Callie Khouri
+Married to the Mob	has_tags	jonathan demme
+Mike's New Car	directed_by	Pete Docter
+Nosferatu the Vampyre	starred_actors	Isabelle Adjani
+U-571	release_year	2000
+Horror Express	has_tags	bd-r
+The Hasty Heart	has_tags	vincent sherman
+School for Scoundrels	starred_actors	Billy Bob Thornton
+Wrong	starred_actors	Jack Plotnick
+Stromboli	in_language	Italian
+The Night of the Shooting Stars	release_year	1982
+Farewell, Home Sweet Home	in_language	French
+Volcano	has_tags	tommy lee jones
+My Son the Fanatic	directed_by	Udayan Prasad
+Exodus	release_year	1960
+A Woman of Affairs	written_by	Bess Meredyth
+Mio in the Land of Faraway	written_by	Astrid Lindgren
+Angus	release_year	1995
+I Wake Up Screaming	release_year	1941
+Hell	in_language	French
+Monkeybone	starred_actors	Bridget Fonda
+A Tale of Two Cities	has_tags	3
+A Beautiful Mind	starred_actors	Ed Harris
+Elmer Gantry	has_genre	Drama
+The Sailor Who Fell from Grace with the Sea	release_year	1976
+Bluebeard	in_language	French
+Charlie's Angels	starred_actors	Drew Barrymore
+The Misadventures of Margaret	release_year	1998
+In the Blood	has_genre	Action
+The Seventh Seal	has_tags	ingmar bergman
+The Family Friend	in_language	Italian
+Powder Room	has_genre	Comedy
+The Loved Ones	starred_actors	Xavier Samuel
+Sixteen Candles	has_genre	Comedy
+In Cold Blood	written_by	Truman Capote
+Caught	starred_actors	James Mason
+Stag Night	directed_by	Peter A. Dowling
+Dr. Jekyll and Mr. Hyde	directed_by	Victor Fleming
+Red Dawn	written_by	Jeremy Passmore
+Green Zone	has_tags	war
+Wolfsburg	directed_by	Christian Petzold
+Amish Grace	starred_actors	Tammy Blanchard
+Zatoichi and the Fugitives	directed_by	Kimiyoshi Yasuda
+Vampire in Venice	in_language	Italian
+The Holcroft Covenant	release_year	1985
+The Apparition	starred_actors	Tom Felton
+When Ladies Meet	starred_actors	Myrna Loy
+Picture Bride	directed_by	Kayo Hatta
+A Feast at Midnight	directed_by	Justin Hardy
+The Unknown	directed_by	Tod Browning
+Mildred Pierce	directed_by	Michael Curtiz
+Demoted	has_genre	Comedy
+88 Minutes	directed_by	Jon Avnet
+Played	starred_actors	Val Kilmer
+D.E.B.S.	has_genre	Comedy
+Tere Naam	in_language	Hindi
+Bruno	starred_actors	Alex D. Linz
+The Anniversary Party	release_year	2001
+The Taking of Pelham One Two Three	written_by	Peter Stone
+Faraway, So Close!	in_language	German
+Over the Hedge	written_by	Karey Kirkpatrick
+Sherlock Holmes	has_tags	characters
+Phantoms	has_tags	dean koontz
+You've Been Trumped	release_year	2011
+The Best Man	directed_by	Malcolm D. Lee
+The Last Angry Man	starred_actors	David Wayne
+Fifty Dead Men Walking	has_genre	Thriller
+Annie	starred_actors	Quvenzhané Wallis
+The Thief of Bagdad	has_tags	michael powell
+Gulliver's Travels	starred_actors	Jack Black
+Never a Dull Moment	written_by	AJ Carothers
+Bring It On	release_year	2000
+Sudden Death	starred_actors	Powers Boothe
+Run for Cover	has_tags	vistavision
+A Life Less Ordinary	has_tags	ewan mcgregor
+Cold Steel	starred_actors	Sharon Stone
+Four Nights with Anna	written_by	Jerzy Skolimowski
+Takers	written_by	John Luessenhop
+Raiders of the Lost Ark	has_tags	usa
+Sweet Home Alabama	has_tags	josh lucas
+Mrs. Parker and the Vicious Circle	has_tags	writers
+Assault on Precinct 13	has_tags	police
+The Golden Eye	starred_actors	Roland Winters
+Sleeping with Other People	starred_actors	Adam Scott
+Gold Diggers of 1935	has_tags	busby berkeley
+Days of Wine and Roses	release_year	1962
+Strange Cargo	starred_actors	Joan Crawford
+Foxy Brown	has_tags	pam grier
+Harper	release_year	1966
+Dancer in the Dark	starred_actors	Björk
+Scooby-Doo	release_year	2002
+Celtic Pride	has_tags	dan aykroyd
+The Diary of a Chambermaid	written_by	Burgess Meredith
+The Bourne Identity	has_tags	conspiracy
+The Swan	starred_actors	Grace Kelly
+My Dog Tulip	release_year	2009
+Marihuana	release_year	1936
+Men in Black 3	starred_actors	Will Smith
+Lady of Burlesque	release_year	1943
+10	has_tags	blake edwards
+Armageddon	has_tags	steve buscemi
+Diggstown	starred_actors	Oliver Platt
+American Dreamz	has_genre	Comedy
+The Saint in London	written_by	Leslie Charteris
+52 Tuesdays	release_year	2013
+40 Days and 40 Nights	has_tags	r
+Hollywoodland	has_tags	ben affleck
+End of Days	has_tags	thriller
+The Other	has_genre	Horror
+The Peanut Butter Solution	release_year	1985
+The January Man	starred_actors	Kevin Kline
+Confessions of a Window Cleaner	has_genre	Comedy
+American Gigolo	has_genre	Drama
+Kandahar	in_language	Persian
+The Messenger	directed_by	Oren Moverman
+The Whole Ten Yards	has_genre	Thriller
+The Legend of Hell House	has_tags	bd-r
+The Kid Stays in the Picture	release_year	2002
+The Village	has_tags	m. night shyamalan
+Trainspotting	written_by	Irvine Welsh
+Rear Window	has_tags	raymond burr
+The First Wives Club	has_tags	revenge
+The Beast Must Die	starred_actors	Calvin Lockhart
+Appleseed	has_genre	Action
+Total Recall	release_year	2012
+Cause for Alarm!	release_year	1951
+The Bank	has_genre	Drama
+Another Happy Day	release_year	2011
+Exit to Eden	release_year	1994
+The Great Mouse Detective	release_year	1986
+Big Fish	has_tags	albert finney
+Heart and Souls	release_year	1993
+The Saint in London	release_year	1939
+Happy Go Lovely	release_year	1951
+Independence Day	starred_actors	Mary McDonnell
+The Glass Key	starred_actors	Brian Donlevy
+Little Fockers	has_tags	jessica alba
+The Barkleys of Broadway	has_tags	bd-r
+Conspiracy	has_tags	conspiracy
+The Ten Commandments	release_year	1956
+White of the Eye	starred_actors	David Keith
+Swing Kids	has_tags	thomas carter
+Our Mother's House	release_year	1967
+Hostel	written_by	Eli Roth
+No Rest for the Wicked	in_language	Spanish
+Conspiracy	has_tags	kenneth branagh
+Q	starred_actors	David Carradine
+Les Cousins	written_by	Claude Chabrol
+The Ladykillers	has_tags	herbert lom
+My Life in Ruins	has_tags	greece
+Peter Pan	has_genre	Fantasy
+Antz	has_tags	dreamworks
+Lifeboat	has_tags	hitchcock
+Please Don't Eat the Daisies	starred_actors	Janis Paige
+Eddie and the Cruisers	directed_by	Martin Davidson
+Queens Logic	starred_actors	Kevin Bacon
+The Fugitive Kind	starred_actors	Marlon Brando
+Old School	has_tags	luke wilson
+Sinister	has_genre	Horror
+Deep Impact	starred_actors	Téa Leoni
+How to Live Forever	starred_actors	Ray Bradbury
+Kon-Tiki	in_language	Norwegian
+Camilla	starred_actors	Jessica Tandy
+Bad Boys	has_genre	Comedy
+Rescue Dawn	has_tags	christian bale
+Priceless	written_by	Pierre Salvadori
+The Adventurers	written_by	Lewis Gilbert
+Ironweed	starred_actors	Jack Nicholson
+Winds of the Wasteland	directed_by	Mack V. Wright
+Charulata	has_genre	Drama
+The Counselor	has_genre	Thriller
+Little Fugitive	directed_by	Ray Ashley
+Pleasantville	release_year	1998
+Another Thin Man	has_tags	william powell
+One Night at McCool's	starred_actors	Matt Dillon
+King of Hearts	has_tags	philippe de broca
+Bugsy Malone	directed_by	Alan Parker
+Jumping the Broom	written_by	Elizabeth Hunter
+The Magnetic Monster	written_by	Curt Siodmak
+Them!	has_tags	science fiction
+V/H/S	has_tags	shorts
+Thor	directed_by	Kenneth Branagh
+The Best and the Brightest	starred_actors	Bonnie Somerville
+All the President's Men	has_tags	watergate
+Autumn Ball	directed_by	Veiko Õunpuu
+The Twelve Chairs	release_year	1970
+Zanjeer	starred_actors	Amitabh Bachchan
+His Kind of Woman	directed_by	John Farrow
+The Darkest Hour	directed_by	Chris Gorak
+Mother Wore Tights	release_year	1947
+Just Go with It	starred_actors	Nick Swardson
+Songcatcher	has_genre	Music
+Obsession	written_by	Paul Schrader
+Smashing Time	directed_by	Desmond Davis
+Date with an Angel	directed_by	Tom McLoughlin
+Broadway Bill	starred_actors	Warner Baxter
+Shrek	starred_actors	Mike Myers
+O Brother, Where Art Thou?	has_tags	epic
+Bubble Boy	has_tags	jake gyllenhaal
+The Glass Menagerie	written_by	Peter Berneis
+Serving Sara	starred_actors	Elizabeth Hurley
+Straw Dogs	has_tags	remake
+Vinci	written_by	Juliusz Machulski
+Mimic 2	has_genre	Horror
+Yes	starred_actors	Sam Neill
+Radio Rebel	release_year	2012
+The Air I Breathe	has_tags	sarah michelle gellar
+Dragnet	has_genre	Crime
+Second Chorus	release_year	1940
+Dark Star	written_by	Dan O'Bannon
+Within the Woods	has_genre	Horror
+Sugar	directed_by	Anna Boden
+Vamps	has_genre	Horror
+A Fine Mess	release_year	1986
+The Front Page	has_tags	jack lemmon
+Hondo	release_year	1953
+The Key	release_year	1958
+Summer Stock	starred_actors	Eddie Bracken
+Intimate Relations	release_year	1996
+Eve's Bayou	has_tags	samuel l. jackson
+Coraline	release_year	2009
+The Art of Crying	has_genre	Comedy
+Carnage	has_tags	kate winslet
+The Incredibles	has_tags	superhero
+The Walker	directed_by	Paul Schrader
+The Zero Theorem	has_tags	terry gilliam
+Chicken Little	written_by	Ron J. Friedman
+Deception	has_genre	Drama
+Hours	starred_actors	Paul Walker
+My Name Is Khan	has_tags	bollywood
+Rocky IV	has_tags	sports
+Hackers	has_tags	angelina jolie
+Finder's Fee	release_year	2001
+X-Men	has_tags	wolverine
+If Looks Could Kill	release_year	1991
+Guadalcanal Diary	starred_actors	William Bendix
+Pola X	in_language	French
+The Emigrants	has_tags	jan troell
+To Rome with Love	in_language	Italian
+A Mulher Invisível	has_genre	Comedy
+Scream 3	has_tags	sequel
+Divergent	has_tags	dystopia
+Dilwale Dulhania Le Jayenge	starred_actors	Kajol
+Waterboys	in_language	Japanese
+Rock of Ages	written_by	Chris D'Arienzo
+Fata Morgana	directed_by	Werner Herzog
+Audition	directed_by	Takashi Miike
+A Return to Salem's Lot	directed_by	Larry Cohen
+Black	starred_actors	Amitabh Bachchan
+Viy	written_by	Nikolai Gogol
+A Foreign Affair	written_by	Richard L. Breen
+Loosies	has_genre	Crime
+The Crowd Roars	starred_actors	Eric Linden
+The Pill	release_year	2011
+The Time Machine	has_tags	guy pearce
+The Bannen Way	release_year	2010
+Losing Isaiah	has_genre	Drama
+Solomon Kane	has_genre	Adventure
+My Cousin Vinny	starred_actors	Ralph Macchio
+16 to Life	has_genre	Comedy
+The Thing	has_tags	horror
+Czech Dream	written_by	Vít Klusák
+Election	has_tags	teacher
+5 Card Stud	release_year	1968
+Buffalo Soldiers	release_year	2001
+The Pool Boys	starred_actors	Efren Ramirez
+City Slickers	written_by	Lowell Ganz
+The Great Ecstasy of Robert Carmichael	written_by	Thomas Clay
+Tarzan's Magic Fountain	starred_actors	Brenda Joyce
+Transamerica	directed_by	Duncan Tucker
+I Dreamed of Africa	release_year	2000
+Calling Dr. Death	release_year	1943
+Coyote Ugly	starred_actors	Piper Perabo
+My Life	written_by	Bruce Joel Rubin
+Crimes of Passion	directed_by	Ken Russell
+Seven Thieves	starred_actors	Joan Collins
+Devil	starred_actors	Bojana Novakovic
+What We Do in the Shadows	written_by	Jemaine Clement
+Shoah	directed_by	Claude Lanzmann
+Bound	has_genre	Crime
+Albatross	release_year	2011
+The 3rd Voice	has_genre	Crime
+To Sleep with Anger	has_genre	Drama
+Tomcats	written_by	Gregory Poirier
+Mrs. Miniver	has_genre	Drama
+Glory	has_tags	denzel washington
+Terkel in Trouble	written_by	Anders Matthesen
+Zombieland	has_tags	woody harrelson
+Tales of Terror	release_year	1962
+Fearless	directed_by	Peter Weir
+Bananas	has_tags	woody allen
+Fire and Ice	written_by	Ralph Bakshi
+Cut and Run	has_genre	Adventure
+Hollywood Shuffle	release_year	1987
+The Big Bus	starred_actors	Stockard Channing
+The Rock	has_tags	san francisco
+Severance	directed_by	Christopher Smith
+Natural Selection	directed_by	Robbie Pickering
+Monsoon Wedding	release_year	2001
+Divorce American Style	written_by	Robert Kaufman
+The World of Henry Orient	directed_by	George Roy Hill
+Gunga Din	has_tags	india
+The Deep Six	has_genre	War
+Computer Chess	release_year	2013
+Little Nicky	directed_by	Steven Brill
+Why Not Me?	written_by	Stéphane Giusti
+I Am the Law	has_genre	Drama
+India Song	has_genre	Drama
+The Theatre Bizarre	written_by	Buddy Giovinazzo
+Kill Me Later	written_by	Dana Lustig
+Dare	has_genre	Drama
+Beau Geste	has_tags	ray milland
+Down in the Valley	has_tags	edward norton
+Dead in the Water	release_year	2002
+Mark Twain	starred_actors	Kevin Conway
+True Confessions	release_year	1981
+Direct Contact	written_by	Danny Lerner
+Moneyball	has_genre	Drama
+I Think I Love My Wife	directed_by	Chris Rock
+An Enemy of the People	starred_actors	Bibi Andersson
+Pushing Tin	release_year	1999
+The Merchant of Four Seasons	release_year	1971
+Indiana Jones and the Last Crusade	has_tags	sean connery
+Dark Blue	has_genre	Crime
+Memorial Day	starred_actors	John Cromwell
+To Die For	starred_actors	Matt Dillon
+Wild Side	directed_by	Sébastien Lifshitz
+Mayerling	has_tags	bd-r
+Antarctica	release_year	1983
+I Love You, Man	has_genre	Comedy
+This Is England	has_tags	england
+Burden of Dreams	has_tags	bd-r
+Skyscraper Souls	release_year	1932
+The Secret Life of Zoey	release_year	2002
+Underclassman	directed_by	Marcos Siega
+Here Comes the Boom	directed_by	Frank Coraci
+Whores' Glory	has_tags	prostitutes
+Evil	starred_actors	Andreas Wilson
+Payment Deferred	has_tags	bd-r
+Backdraft	starred_actors	Donald Sutherland
+Jeremiah Johnson	has_genre	Western
+Moonlighting	directed_by	Jerzy Skolimowski
+Kung Fu Panda Holiday	starred_actors	Angelina Jolie
+Echelon Conspiracy	starred_actors	Shane West
+The Forgotten	has_tags	joseph ruben
+Flags of Our Fathers	has_tags	american
+Superhero Movie	written_by	Craig Mazin
+Cry, the Beloved Country	starred_actors	James Earl Jones
+Kiss the Girls	has_tags	gary fleder
+Keys to Tulsa	starred_actors	Eric Stoltz
+Oceans	directed_by	Jacques Cluzaud
+Africa Screams	has_genre	Comedy
+Elizabeth	starred_actors	Geoffrey Rush
+Medea	written_by	Carl Theodor Dreyer
+Who Am I?	written_by	Jackie Chan
+Waterloo	starred_actors	Orson Welles
+From the Terrace	starred_actors	Ina Balin
+Avanti!	release_year	1972
+Bride Wars	written_by	Casey Wilson
+Children of the Revolution	has_genre	Comedy
+MASH	has_tags	vietnam
+Bean	written_by	Rowan Atkinson
+Murders in the Rue Morgue	has_tags	edgar allan poe
+The Machine Girl	directed_by	Noboru Iguchi
+National Security	starred_actors	Martin Lawrence
+A Promise	written_by	Jérôme Tonnerre
+The Leading Man	release_year	1996
+Paths of Glory	has_tags	court
+The Grey	written_by	Joe Carnahan
+In Their Skin	directed_by	Jeremy Power Regimbal
+Viva Zapata!	directed_by	Elia Kazan
+Anastasia	has_tags	yul brynner
+Cherry Blossoms	in_language	German
+Galaxy of Terror	has_genre	Horror
+Teen Beach Movie	release_year	2013
+Something Borrowed	directed_by	Luke Greenfield
+Pulse	directed_by	Paul Golding
+The Expendables 2	written_by	Richard Wenk
+The Brothers Karamazov	directed_by	Richard Brooks
+Million Dollar Baby	starred_actors	Hilary Swank
+Storm Catcher	starred_actors	Dolph Lundgren
+Son of Frankenstein	release_year	1939
+Clear History	starred_actors	Larry David
+Extreme Ops	directed_by	Christian Duguay
+Short Circuit 2	release_year	1988
+Doctor Zhivago	starred_actors	Omar Sharif
+Bye-Bye	in_language	French
+22 Jump Street	has_tags	phil lord
+Apocalypse Now	has_tags	martin sheen
+All These Women	release_year	1964
+In Harm's Way	release_year	1965
+The Flame of New Orleans	has_genre	Comedy
+Boy Wonder	starred_actors	Zulay Henao
+The Quatermass Xperiment	written_by	Nigel Kneale
+The Family	release_year	1987
+Splice	in_language	French
+Good News	directed_by	Charles Walters
+Hoodlum	has_genre	Crime
+Fargo	has_tags	william h. macy
+One 2 Ka 4	release_year	2001
+The Grandfather	directed_by	José Luis Garci
+River of No Return	starred_actors	Marilyn Monroe
+Fright	has_tags	bd-r
+The Kiss of Evil	has_tags	finnish
+Weekend at Bernie's	starred_actors	Jonathan Silverman
+Funny Games	directed_by	Michael Haneke
+Guys and Dolls	has_tags	frank sinatra
+Death to Smoochy	has_tags	edward norton
+Wendy and Lucy	starred_actors	Lucy
+The Sunshine Boys	has_tags	neil simon
+Brooklyn Rules	directed_by	Michael Corrente
+The Tiger's Tail	release_year	2006
+Keeper of the Flame	starred_actors	Spencer Tracy
+Red Dawn	has_tags	josh hutcherson
+Nothing Lasts Forever	written_by	Tom Schiller
+The Delicate Delinquent	has_tags	vistavision
+Captain Newman, M.D.	has_genre	War
+Eye for an Eye	written_by	Amanda Silver
+Lucky Number Slevin	has_genre	Crime
+Sound of the Mountain	release_year	1954
+The Magus	written_by	John Fowles
+The War on Democracy	directed_by	John Pilger
+Disturbia	has_genre	Thriller
+Gunga Din	starred_actors	Sam Jaffe
+Top Dog	directed_by	Aaron Norris
+The Last Metro	has_genre	Drama
+The Shadow Riders	has_tags	andrew v. mclaglen
+Rubin and Ed	release_year	1991
+There Goes My Heart	starred_actors	Fredric March
+Destroyer	starred_actors	Edward G. Robinson
+Saw	has_genre	Horror
+The Assassination of Richard Nixon	has_tags	sean penn
+A Night in Casablanca	has_tags	bd-r
+Suddenly, Last Summer	has_tags	elizabeth taylor
+Doc Hollywood	written_by	Jeffrey Price
+The Eye of the Storm	release_year	2011
+Touchback	written_by	Don Handfield
+Short Cuts	has_genre	Comedy
+The Hustler	starred_actors	Jackie Gleason
+Red River	release_year	1948
+Danton	has_tags	poland
+You'll Find Out	written_by	David Butler
+Vertical Limit	starred_actors	Chris O'Donnell
+Main Hoon Na	directed_by	Farah Khan
+Trick	starred_actors	Christian Campbell
+Colorado Territory	written_by	John Twist
+The Bravados	directed_by	Henry King
+Kronk's New Groove	starred_actors	Eartha Kitt
+Sniper 2	starred_actors	Bokeem Woodbine
+Austin Powers in Goldmember	starred_actors	Beyoncé Knowles
+Hallam Foe	directed_by	David Mackenzie
+Unstoppable	has_genre	Action
+Hostage	has_tags	bruce willis
+The Spook Who Sat by the Door	release_year	1973
+The Ref	directed_by	Ted Demme
+Burnt Offerings	starred_actors	Burgess Meredith
+Sudden Fear	starred_actors	Jack Palance
+Three to Tango	starred_actors	Dylan McDermott
+Meet Dave	has_tags	eddie murphy
+Blade II	has_tags	action
+Femme Fatale	starred_actors	Rebecca Romijn
+The Naked Civil Servant	in_language	English
+The Hunter	written_by	Julia Leigh
+Prince of Foxes	starred_actors	Tyrone Power
+Welcome to New York	has_genre	Drama
+Black Swan	has_genre	Thriller
+Free Samples	has_genre	Comedy
+99 Homes	directed_by	Ramin Bahrani
+Keyhole	directed_by	Guy Maddin
+One, Two, Three	directed_by	Billy Wilder
+American Heart	starred_actors	Jeff Bridges
+Cat on a Hot Tin Roof	has_tags	richard brooks
+Lenny	written_by	Julian Barry
+Down to Earth	directed_by	Paul Weitz
+Dancer, Texas Pop. 81	has_genre	Comedy
+The Lone Ranger	has_tags	long
+Hellboy	written_by	Mike Mignola
+35 Shots of Rum	written_by	Claire Denis
+Man of Iron	release_year	1981
+Tuck Everlasting	has_genre	Family
+Vampires	has_tags	john carpenter
+The Dark Corner	starred_actors	Clifton Webb
+The Wolfman	in_language	English
+You Will Be My Son	release_year	2011
+V for Vendetta	has_tags	action
+Zatoichi and the Fugitives	in_language	Japanese
+The Story of Esther Costello	directed_by	David Miller
+The Keys to the House	has_genre	Drama
+The Paper Chase	starred_actors	Lindsay Wagner
+Road to Nowhere	directed_by	Monte Hellman
+God's Little Acre	directed_by	Anthony Mann
+My Mother Likes Women	has_genre	Comedy
+The Man Who Laughs	has_genre	Horror
+Beneath the Harvest Sky	written_by	Aron Gaudet
+Mon Oncle	has_tags	jacques tati
+Red State	has_genre	Action
+Out on a Limb	release_year	1992
+No Rest for the Wicked	release_year	2011
+Norwegian Ninja	has_genre	Comedy
+The Motel	written_by	Michael Kang
+Nightmare Alley	starred_actors	Joan Blondell
+A Christmas Carol	has_tags	christmas
+Toy Story 2	has_tags	lee unkrich
+Camila	has_genre	Drama
+The Night Flier	release_year	1997
+White Mischief	has_genre	Drama
+Lorna	has_genre	Drama
+Lonelyhearts	starred_actors	Montgomery Clift
+A Secret	release_year	2007
+Dobermann	has_tags	vincent cassel
+Angel Dog	written_by	Robin Nations
+Red Dragon	has_tags	anthony hopkins
+Alan Partridge	in_language	English
+It's a Great Feeling	directed_by	David Butler
+Van Helsing	has_tags	monsters
+Point Break	has_tags	keanu reeves
+The Forbidden Kingdom	starred_actors	Jackie Chan
+Starter for 10	has_tags	james mcavoy
+It Came from Outer Space	directed_by	Jack Arnold
+One Tough Cop	has_genre	Action
+Delitto al ristorante cinese	written_by	Bruno Corbucci
+You Light Up My Life	written_by	Joseph Brooks
+The Year of the Hare	has_genre	Drama
+The Imaginarium of Doctor Parnassus	written_by	Terry Gilliam
+Back to the Future	has_tags	crispin glover
+Dragnet	written_by	Dan Aykroyd
+Father Hood	release_year	1993
+Freebie and the Bean	has_genre	Comedy
+Darling Companion	written_by	Lawrence Kasdan
+The Theatre Bizarre	written_by	David Gregory
+The Funeral	starred_actors	Annabella Sciorra
+Music and Lyrics	release_year	2007
+Peter-No-Tail	in_language	Swedish
+The Big Lebowski	has_tags	comedy
+The Thief	has_genre	Drama
+Birth	starred_actors	Danny Huston
+Condorman	starred_actors	Michael Crawford
+Moneyball	starred_actors	Jonah Hill
+The Match King	starred_actors	Lili Damita
+Centurion	has_tags	olga kurylenko
+Beverly Hills Cop II	has_tags	sequel
+Confessions of a Teenage Drama Queen	starred_actors	Glenne Headly
+The Town	has_genre	Drama
+Dreamcatcher	starred_actors	Damian Lewis
+You, Me and Dupree	release_year	2006
+Kick-Ass	has_tags	story
+A Better Tomorrow	directed_by	John Woo
+Gallipoli	release_year	1981
+Coneheads	directed_by	Steve Barron
+Can't Help Singing	written_by	Leo Townsend
+Orchestra Wives	starred_actors	Glenn Miller
+The Return of the Pink Panther	starred_actors	Herbert Lom
+Amélie	has_tags	jeunet
+Apocalypse Now	has_tags	robert duvall
+Night Shift	directed_by	Ron Howard
+River Queen	starred_actors	Kiefer Sutherland
+Coyote Ugly	directed_by	David McNally
+The First Power	directed_by	Robert Resnikoff
+Club Dread	has_tags	jay chandrasekhar
+My Best Friend's Girl	release_year	2008
+The Ward	starred_actors	Amber Heard
+Night Passage	release_year	1957
+That Old Feeling	has_genre	Comedy
+Never Cry Wolf	written_by	Farley Mowat
+Smiles of a Summer Night	written_by	Ingmar Bergman
+Girl Shy	written_by	Tim Whelan
+A Tale of Two Cities	has_tags	dickens
+Night Train to Munich	release_year	1940
+The Great Raid	starred_actors	Benjamin Bratt
+SubUrbia	has_tags	suburbia
+The World of Henry Orient	has_tags	george roy hill
+Hot Rod	has_tags	comedy
+Alice's Restaurant	written_by	Arthur Penn
+Alexander's Ragtime Band	written_by	Richard Sherman
+Breakfast of Champions	release_year	1999
+Clear History	starred_actors	Philip Baker Hall
+The Curious Case of Benjamin Button	has_tags	life
+Pink Flamingos	starred_actors	Mary Vivian Pearce
+Captain Newman, M.D.	release_year	1963
+Caro diario	starred_actors	Nanni Moretti
+Platoon	has_tags	oliver stone
+Diamond Girl	has_genre	Romance
+The Bridesmaid	release_year	2004
+Beauty Shop	starred_actors	Andie MacDowell
+Crossroads	release_year	1986
+Transsiberian	has_tags	russia
+Conan the Barbarian	directed_by	John Milius
+Death in the Garden	starred_actors	Simone Signoret
+The Mouse That Roared	starred_actors	Peter Sellers
+The Grand	directed_by	Zak Penn
+Pleasantville	starred_actors	Reese Witherspoon
+Touch of Evil	release_year	1958
+Lisa Picard Is Famous	starred_actors	Laura Kirk
+Evil Dead II	has_tags	sam raimi
+The Iron Giant	has_genre	Animation
+Death Sentence	starred_actors	Kevin Bacon
+Legends of the Fall	has_genre	War
+The House of the Spirits	has_tags	antonio banderas
+Unfaithfully Yours	starred_actors	Albert Brooks
+The Fabulous Baker Boys	release_year	1989
+Major Dundee	has_tags	charlton heston
+Bachelor Party	directed_by	Neal Israel
+A Tale of the Wind	starred_actors	Joris Ivens
+Cinderella	has_tags	musical
+That Thing You Do!	has_tags	music
+The Scorpion King	release_year	2002
+Awakenings	starred_actors	Robin Williams
+Career Girls	release_year	1997
+Dennis the Menace	starred_actors	Walter Matthau
+Four Eyed Monsters	directed_by	Susan Buice
+Hero at Large	has_genre	Comedy
+The Curse of Frankenstein	starred_actors	Peter Cushing
+Latter Days	written_by	C. Jay Cox
+Life of Crime	has_genre	Comedy
+What to Expect When You're Expecting	written_by	Shauna Cross
+The Business	has_genre	Crime
+A Better Life	written_by	Eric Eason
+Kart Racer	starred_actors	David Gallagher
+The Natural	directed_by	Barry Levinson
+Scaramouche	written_by	Rafael Sabatini
+Arthur Christmas	release_year	2011
+Ice Soldiers	directed_by	Sturla Gunnarsson
+Magic Mike	directed_by	Steven Soderbergh
+The Man from Snowy River	has_genre	Drama
+Sling Blade	directed_by	Billy Bob Thornton
+The Flintstones	has_genre	Comedy
+Moby Dick	starred_actors	Richard Basehart
+The Girl Who Leapt Through Time	has_tags	original
+Twilight	starred_actors	Reese Witherspoon
+Species	has_genre	Horror
+Oliver Twist	has_genre	Drama
+Suicide Room	directed_by	Jan Komasa
+WolfCop	written_by	Lowell Dean
+Finding Neverland	starred_actors	Johnny Depp
+Marie Antoinette	starred_actors	Norma Shearer
+The Ugly Truth	has_tags	katherine heigl
+Darby O'Gill and the Little People	release_year	1959
+The Mayor of Casterbridge	written_by	Thomas Hardy
+True Stories	has_genre	Musical
+What We Did on Our Holiday	starred_actors	Billy Connolly
+Mad Max	starred_actors	Mel Gibson
+The Deal	written_by	Steven Schachter
+Cherry Blossoms	has_tags	japan
+Pornorama	has_genre	Comedy
+The Women	release_year	2008
+Pink Cadillac	has_genre	Action
+Girl, Interrupted	has_tags	drama
+Boyz n the Hood	has_tags	drama
+Return to Paradise	starred_actors	Anne Heche
+Only Old Men Are Going to Battle	written_by	Leonid Bykov
+The Sin of Harold Diddlebock	written_by	Preston Sturges
+Mutual Appreciation	has_tags	mumblecore
+Rise of the Planet of the Apes	starred_actors	Andy Serkis
+Battle of Los Angeles	written_by	Mark Atkins
+Love Affair	directed_by	Glenn Gordon Caron
+Death Race 2000	has_tags	sylvester stallone
+Earth Girls Are Easy	has_genre	Musical
+White Frog	release_year	2012
+Things You Can Tell Just by Looking at Her	has_tags	holly hunter
+Cry Freedom	has_tags	apartheid
+Seven Girlfriends	starred_actors	Tim Daly
+When a Stranger Calls	written_by	Fred Walton
+Seems Like Old Times	starred_actors	Chevy Chase
+State Property	has_genre	Crime
+Shining Through	starred_actors	Michael Douglas
+Flirt	release_year	1995
+The Birds, the Bees and the Italians	in_language	Italian
+Coup de tête	has_tags	french
+Change of Habit	written_by	Richard Morris
+The Snake Pit	has_tags	anatole litvak
+Role Models	has_tags	ken jeong
+Hit and Runway	has_genre	Comedy
+Cat on a Hot Tin Roof	written_by	Richard Brooks
+Identity	starred_actors	Ray Liotta
+The Perfect Storm	has_tags	drama
+Westfront 1918	directed_by	Georg Wilhelm Pabst
+Lisa Picard Is Famous	has_genre	Drama
+When a Man Loves a Woman	starred_actors	Meg Ryan
+George Washington Slept Here	has_tags	william keighley
+Gate of Hell	release_year	1953
+The Magnificent Ambersons	starred_actors	Joseph Cotten
+Cellular	has_genre	Thriller
+A Good Year	has_genre	Drama
+Whiplash	has_tags	music
+The Internship	has_genre	Comedy
+The Story of Marie and Julien	in_language	French
+It Runs in the Family	starred_actors	Kieran Culkin
+Goodfellas	has_tags	ray liotta
+The Doors	starred_actors	Kyle MacLachlan
+Year of the Dog	written_by	Mike White
+The Big Knife	release_year	1955
+The Last Time I Saw Paris	has_imdb_rating	good
+A Promise	written_by	Stefan Zweig
+The Laughing Woman	in_language	Italian
+Miss Firecracker	starred_actors	Alfre Woodard
+One Wonderful Sunday	release_year	1947
+Clash of the Titans	has_tags	3d
+Passage to Marseille	written_by	Casey Robinson
+Charlie's Angels	has_tags	bill murray
+The Hot Rock	release_year	1972
+Children of the Night	has_genre	Horror
+Junior Bonner	has_tags	sam peckinpah
+Grandma's Boy	written_by	Allen Covert
+Earth	written_by	Alastair Fothergill
+Paranormal Activity 2	release_year	2010
+Loose Cannons	has_tags	gene hackman
+Neo Ned	starred_actors	Gabrielle Union
+Swing Time	has_tags	george stevens
+Blackball	directed_by	Mel Smith
+This Is the End	has_genre	Comedy
+The Campaign	has_tags	will ferrell
+Flipped	has_tags	rob reiner
+The Thing	written_by	Eric Heisserer
+Picking Up the Pieces	has_genre	Comedy
+Krrish	starred_actors	Rekha
+The Presidio	release_year	1988
+Ondine	has_tags	colin farrell
+Watchmen	has_tags	comic book
+Immediate Family	directed_by	Jonathan Kaplan
+Forever, Darling	starred_actors	Lucille Ball
+Cave of Forgotten Dreams	has_tags	bd-r
+The Creeping Flesh	starred_actors	Peter Cushing
+Frankenstein Must Be Destroyed	release_year	1969
+Friday the 13th	release_year	1980
+Roma	has_genre	Comedy
+Sweet Sweetback's Baadasssss Song	has_tags	unsimulated sex
+Contamination	has_genre	Horror
+Beyond Tomorrow	starred_actors	Harry Carey
+Streets of Fire	starred_actors	Michael Paré
+The Ten	written_by	Ken Marino
+Desi Boyz	in_language	Hindi
+Always Tell Your Wife	written_by	Seymour Hicks
+Chromophobia	release_year	2005
+Under the Sun of Satan	starred_actors	Maurice Pialat
+As Tears Go By	starred_actors	Andy Lau
+The Tender Hook	release_year	2008
+Mary	has_genre	Thriller
+Dead in Tombstone	has_genre	Action
+Happy New Year	written_by	Claude Lelouch
+Dagon	release_year	2001
+Happy Feet	has_genre	Animation
+Audition	has_tags	takashi miike
+Trauma	release_year	1993
+The King's Speech	directed_by	Tom Hooper
+Shrek	directed_by	Vicky Jenson
+Along Came a Spider	written_by	James Patterson
+I Could Never Be Your Woman	has_tags	amy heckerling
+The Big Bounce	has_genre	Comedy
+Barbed Wire	release_year	1952
+Nanny McPhee	has_genre	Fantasy
+Commandos Strike at Dawn	starred_actors	Cedric Hardwicke
+Amongst Friends	written_by	Rob Weiss
+Trust Me	starred_actors	Alexander Skarsgård
+Philadelphia	has_tags	homosexuality
+The Emperor's New Groove	has_genre	Animation
+South Central	written_by	Stephen Milburn Anderson
+Jungle 2 Jungle	has_genre	Comedy
+Fried Green Tomatoes	starred_actors	Jessica Tandy
+Make It Happen	release_year	2008
+Godzilla vs. Mechagodzilla II	has_tags	kaiju
+Skyfall	has_tags	judi dench
+Stand by Me	release_year	1986
+Charlie Wilson's War	starred_actors	Tom Hanks
+Lust for Life	starred_actors	Kirk Douglas
+Something Wild	has_genre	Drama
+Shanghai Express	directed_by	Josef von Sternberg
+The Scarlet Empress	release_year	1934
+The Painted Veil	has_tags	edward norton
+A Tale of the Wind	in_language	French
+Harry in Your Pocket	starred_actors	Trish Van Devere
+Ip Man 2	has_tags	ip man
+Accattone	has_genre	Drama
+Thirteen Days	release_year	2000
+Bitter Victory	directed_by	Nicholas Ray
+Transformers	starred_actors	Josh Duhamel
+Alice	has_genre	Fantasy
+Anastasia	starred_actors	Kelsey Grammer
+State of Play	written_by	Matthew Michael Carnahan
+Transporter 2	starred_actors	Jason Statham
+Harry Potter and the Half-Blood Prince	has_tags	direction
+The Loveless	starred_actors	Willem Dafoe
+Lost Horizon	written_by	James Hilton
+The Wife	release_year	1995
+The Fallen Sparrow	starred_actors	John Garfield
+Forget Me Not	written_by	Tyler Oliver
+Venice/Venice	starred_actors	Henry Jaglom
+The Fly II	starred_actors	Eric Stoltz
+War Comes to America	has_genre	War
+For Whom the Bell Tolls	starred_actors	Ingrid Bergman
+My Father's Glory	written_by	Yves Robert
+Vatel	release_year	2000
+The Illusionist	has_tags	1950s
+Mädchen in Uniform	in_language	German
+King Kelly	release_year	2012
+The A-Team	starred_actors	Bradley Cooper
+Independence Day	starred_actors	Jeff Goldblum
+Dolls	directed_by	Stuart Gordon
+Funeral in Berlin	has_tags	guy hamilton
+Girl Crazy	starred_actors	Judy Garland
+She's So Lovely	starred_actors	John Travolta
+After.Life	starred_actors	Liam Neeson
+Guns at Batasi	release_year	1964
+They Call Me Mister Tibbs!	release_year	1970
+Fly Away Home	has_tags	anna paquin
+The Private Affairs of Bel Ami	release_year	1947
+Roxanne	has_genre	Comedy
+Barbara	written_by	Christian Petzold
+Knight and Day	release_year	2010
+Nomads	release_year	1986
+The Great Santini	starred_actors	Michael O'Keefe
+American Splendor	has_genre	Drama
+Dororo	in_language	Japanese
+The Year My Voice Broke	written_by	John Duigan
+Foxy Brown	starred_actors	Pam Grier
+Mr. Holland's Opus	has_tags	music
+End of the Game	written_by	Friedrich Dürrenmatt
+Vengeance Valley	release_year	1951
+A Home at the End of the World	written_by	Michael Cunningham
+Desperately Seeking Susan	starred_actors	Rosanna Arquette
+Schindler's List	starred_actors	Ben Kingsley
+Heat and Dust	release_year	1983
+The Ice Harvest	release_year	2005
+The Return of a Man Called Horse	release_year	1976
+The Man with One Red Shoe	release_year	1985
+Blue Sky	starred_actors	Jessica Lange
+Stardust	has_tags	british
+The Quiet American	directed_by	Phillip Noyce
+Beau Travail	release_year	1999
+The Scarlet Letter	directed_by	Roland Joffé
+Rescue Dawn	starred_actors	Christian Bale
+The Brave	written_by	Johnny Depp
+Cannibal Ferox	written_by	Umberto Lenzi
+The Mission	starred_actors	Francis Ng
+White Mane	directed_by	Albert Lamorisse
+A Princess for Christmas	directed_by	Michael Damian
+Son of Godzilla	starred_actors	Tadao Takashima
+Little Big Man	directed_by	Arthur Penn
+Malcolm X	has_genre	History
+The Age of Innocence	release_year	1993
+10	release_year	1979
+Swimming	directed_by	Robert J. Siegel
+Return	directed_by	Liza Johnson
+Teaching Mrs. Tingle	directed_by	Kevin Williamson
+Golden Earrings	directed_by	Mitchell Leisen
+Ride with the Devil	has_imdb_rating	good
+Easy Living	starred_actors	Jean Arthur
+The Lives of Others	has_tags	r
+Three Brothers	has_tags	francesco rosi
+Penguins of Madagascar	written_by	Eric Darnell
+The Squaw Man	release_year	1914
+Cinderella	has_tags	disney
+Easter Parade	starred_actors	Judy Garland
+Man on a Ledge	release_year	2012
+Made for Each Other	release_year	1939
+Fallen Angel	has_tags	otto preminger
+Monkey Business	starred_actors	Ginger Rogers
+The Man	release_year	1972
+Show Boat	has_genre	Musical
+A Single Shot	has_genre	Crime
+Chilly Scenes of Winter	has_genre	Comedy
+Life Is Beautiful	has_tags	roberto benigni
+The Departed	has_tags	matt damon
+The Mystery of the Leaping Fish	has_genre	Comedy
+The Monster Squad	has_tags	80s
+March or Die	starred_actors	Terence Hill
+Hollow Man	has_tags	bd-r
+Plot of Fear	directed_by	Paolo Cavara
+Foodfight!	has_genre	Animation
+Nightbreed	has_genre	Horror
+Tere Bin Laden	directed_by	Abhishek Sharma
+Trumbo	directed_by	Peter Askin
+Brain Donors	has_genre	Comedy
+Kingpin	has_tags	woody harrelson
+Zero Effect	has_tags	bill pullman
+Drowning Mona	has_genre	Comedy
+Hangmen Also Die!	starred_actors	Brian Donlevy
+Hell in the Pacific	has_genre	War
+The Rocketeer	written_by	Danny Bilson
+Schindler's List	has_tags	steven spielberg
+Blue Valentine	has_tags	ryan gosling
+Tyson	has_tags	james toback
+So I Married an Axe Murderer	release_year	1993
+Forrest Gump	release_year	1994
+Alan Partridge	release_year	2013
+The Black Stallion	directed_by	Carroll Ballard
+Sorority Boys	release_year	2002
+Journey from the Fall	release_year	2006
+The Adventures of Tintin	has_tags	andy serkis
+My Bodyguard	written_by	Alan Ormsby
+Citizen Koch	directed_by	Carl Deal
+Reconstruction	has_genre	Drama
+The Purple Rose of Cairo	has_tags	woody allen
+Night Moves	starred_actors	Peter Sarsgaard
+The Gambler	has_genre	Crime
+For Ellen	starred_actors	Paul Dano
+Billy Elliot	has_tags	dance
+Clerks II	has_tags	jay and silent bob
+Curious George	starred_actors	Frank Welker
+City Lights	has_tags	sad
+Internal Affairs	has_genre	Crime
+Unknown	starred_actors	Greg Kinnear
+Trouble with the Curve	has_tags	john goodman
+Let's Talk About the Rain	directed_by	Agnès Jaoui
+Who's Afraid of Virginia Woolf?	has_tags	mike nichols
+Cool Hand Luke	has_tags	drama
+Bastards	directed_by	Claire Denis
+The Bank	starred_actors	David Wenham
+Toward the Unknown	release_year	1956
+Top Secret!	written_by	David Zucker
+Catch Me If You Can	has_tags	leonardo dicaprio
+Maria Full of Grace	starred_actors	Catalina Sandino Moreno
+Staggered	has_genre	Comedy
+Above Suspicion	starred_actors	Kim Cattrall
+The Magical Legend of the Leprechauns	starred_actors	Colm Meaney
+Tooth and Nail	written_by	Mark Young
+My Girl	has_tags	macaulay culkin
+Claire of the Moon	has_tags	lesbian
+The Red Badge of Courage	directed_by	John Huston
+The Old Dark House	has_tags	boris karloff
+The Cincinnati Kid	has_tags	poker
+Neds	directed_by	Peter Mullan
+10 Years	starred_actors	Justin Long
+The Great Gatsby	has_tags	f. scott fitzgerald
+State Fair	starred_actors	Lew Ayres
+Stingray Sam	written_by	Cory McAbee
+Islands in the Stream	has_tags	ernest hemingway
+The Go-Getter	has_tags	road trip
+A Scene at the Sea	written_by	Takeshi Kitano
+The Long Goodbye	written_by	Raymond Chandler
+Confessions of an Opium Eater	in_language	English
+Dreamcatcher	has_tags	stephen king
+The Blue Umbrella	has_tags	short
+Eye of the Beholder	written_by	Stephan Elliott
+The Blues Brothers	written_by	John Landis
+Dead of Night	directed_by	Basil Dearden
+Twister	starred_actors	Helen Hunt
+The Year My Voice Broke	has_tags	john duigan
+The Devil Wears Prada	has_genre	Comedy
+Big Momma's House 2	has_tags	martin lawrence
+Knock Off	has_genre	Action
+Proof	directed_by	Jocelyn Moorhouse
+Millennium	starred_actors	Kris Kristofferson
+The Remains of the Day	starred_actors	Anthony Hopkins
+Madea's Witness Protection	has_tags	tyler perry
+Fool's Gold	directed_by	Andy Tennant
+The Upside of Anger	has_genre	Drama
+Amy	starred_actors	Rachel Griffiths
+The Big Easy	has_tags	r
+Breaking Away	has_genre	Sport
+Your Vice Is a Locked Room and Only I Have the Key	written_by	Edgar Allan Poe
+Mr. Woodcock	has_genre	Comedy
+The Cider House Rules	has_tags	bd-r
+Avenger	starred_actors	Timothy Hutton
+Airbag	written_by	Karra Elejalde
+Terror by Night	starred_actors	Basil Rathbone
+State Property	written_by	Abdul Malik Abbott
+Orfeu	has_genre	Drama
+Ferris Bueller's Day Off	has_tags	high school
+Dominick and Eugene	has_tags	robert m. young
+Gospa	starred_actors	Martin Sheen
+Boca	release_year	2010
+The In-Laws	starred_actors	Robin Tunney
+The File on Thelma Jordon	starred_actors	Wendell Corey
+Alice in Wonderland	release_year	1933
+Mary Poppins	starred_actors	Glynis Johns
+The Original Kings of Comedy	release_year	2000
+Gallipoli	written_by	Peter Weir
+Mr. Wrong	starred_actors	Ellen DeGeneres
+The Shock Doctrine	written_by	Naomi Klein
+The Dark Horse	starred_actors	Bette Davis
+The Producers	starred_actors	Matthew Broderick
+The Dilemma	starred_actors	Winona Ryder
+Eight Days a Week	directed_by	Michael Davis
+That Awkward Moment	has_genre	Comedy
+Patch Adams	has_tags	robin williams
+Attenberg	written_by	Athina Rachel Tsangari
+Vincent	directed_by	Tim Burton
+Better Luck Tomorrow	directed_by	Justin Lin
+The Killing of John Lennon	directed_by	Andrew Piddington
+I, Robot	has_tags	asimov
+Philadelphia	directed_by	Jonathan Demme
+Captain January	has_tags	david butler
+Arlington Road	has_tags	terrorism
+Harold and Maude	directed_by	Hal Ashby
+Vehicle 19	release_year	2013
+Race the Sun	has_genre	Comedy
+Spartan	written_by	David Mamet
+Mask	starred_actors	Eric Stoltz
+Sgt. Kabukiman N.Y.P.D.	directed_by	Michael Herz
+White House Down	has_tags	political
+High School High	has_tags	jon lovitz
+The Great Gatsby	starred_actors	Robert Redford
+The Incredibles	has_tags	super-hero
+Green Card	starred_actors	Gérard Depardieu
