@@ -134,7 +134,6 @@ class Engine:
 
 
 
-
         entities = np.load(entity_path)
         relations = np.load(relation_path)
         e, r = self.preprocess_entities_relations(entity_dict, relation_dict, entities, relations)
@@ -161,7 +160,6 @@ class Engine:
         self.idx2entity = idx2entity
         self.device = device
         self.model_name = model_name
-
 
 
     def data_generator(self,data, word2idx, entity2idx):
@@ -204,13 +202,23 @@ class Engine:
         return pred_ans
 
     def answer(self, question):
+        question = self.preprocess_question(question)
+        print(question)
         ans = self.single_entry(model=self.model, question=question, word2idx=self.word2idx,
            entity2idx=self.entity2idx, device=self.device, model_name=self.model_name)
         return self.idx2entity[ans]
 
+    def preprocess_question(self, question):
+        max_match = ""
+        for x in self.entity2idx.keys():
+            if x in question:
+                if len(max_match) < len(x):
+                    max_match = x
+        return question.replace(max_match, f"[{max_match}]")
+
 
 engine = Engine()
 
-print(engine.answer("which person directed the movies starred by [John Krasinski]"))
+print(engine.answer("which person directed the movies starred by John Krasinski"))
 
 
