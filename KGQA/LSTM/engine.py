@@ -216,9 +216,6 @@ class Engine:
                     max_match = x
         return question.replace(max_match, f"[{max_match}]")
 
+# engine = Engine()
 
-engine = Engine()
-
-print(engine.answer("which person directed the movies starred by John Krasinski"))
-
-
+# print(engine.answer("which person directed the movies starred by Johnny Depp"))
