@@ -18,6 +18,28 @@ The project has the following main components:
 }
 ```
 
+## Running the project
+
+Before running the project:
+- Clone the repository
+- Go to the cloned folder:
+	cd ./KRAM
+- Create a new virtual environment
+	  python3 -m venv /path/to/new/virtual/environment
+- Activate the env:
+	  source <venv>/bin/activate
+- Install the dependencies:
+	  pip install -r requirements.txt
+
+Guidance for python venv, if you are not using linux https://docs.python.org/3/library/venv.html
+
+There are two ways of running this project, descriibed below:
+1. The training/test option
+2. The UI option:
+    - Start the flask server( KRAM/app/kram-server)
+    - Start the frontend (KRAM/app/kram-frontend)
+
+
 ## Paramenters for training the model/engine:
 
 ```
