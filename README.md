@@ -22,14 +22,14 @@ The project has the following main components:
 
 Before running the project:
 - Clone the repository
-- Go to the cloned folder:
-	cd ./KRAM
+- Go to the cloned folder: 
+	```cd ./KRAM```
 - Create a new virtual environment
-	  python3 -m venv /path/to/new/virtual/environment
+	 ```python3 -m venv /path/to/new/virtual/environment```
 - Activate the env:
-	  source <venv>/bin/activate
+	  ```source <venv>/bin/activate```
 - Install the dependencies:
-	  pip install -r requirements.txt
+	  ```pip install -r requirements.txt```
 
 Guidance for python venv, if you are not using linux https://docs.python.org/3/library/venv.html
 
