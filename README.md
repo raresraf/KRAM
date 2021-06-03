@@ -1,6 +1,10 @@
 # KRAM
-A multi-stack tech system for Question Answering using modern approaches in NLP and Knowledge Graphs build on top of [EmbedKGQA](https://github.com/malllabiisc/EmbedKGQA).
+A system for Question Answering using modern approaches in NLP and Knowledge Graphs build on top of [EmbedKGQA](https://github.com/malllabiisc/EmbedKGQA).
 
+The project has the following main components:
+1. Engine (All machine learning modules)
+2. Flask server
+3. UI
 
 ```
 @inproceedings{saxena2020improving,
