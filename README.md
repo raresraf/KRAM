@@ -1,6 +1,8 @@
 # KRAM
 A system for Question Answering using modern approaches in NLP and Knowledge Graphs build on top of [EmbedKGQA](https://github.com/malllabiisc/EmbedKGQA).
 
+- Written Material: [here](doc.pdf)
+
 ## Components
 
 The project has the following main components:
